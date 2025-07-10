@@ -1,0 +1,2646 @@
+Section EE 61(3B): amended, on 1 April 2024, by section 60(2) (and see section 60(5) for applica‐
+tion) of the Taxation (Annual Rates for 2023–24, Multinational Tax, and Remedial Matters) Act 2024
+(2024 No 11).
+Section EE 61(5B) heading: inserted (with effect on 1 April 2015 and applying for the 2015–16
+and later income years), on 24 February 2016, by section 127(2) of the Taxation (Annual Rates for
+2015–16, Research and Development, and Remedial Matters) Act 2016 (2016 No 1).
+Section EE 61(5B): inserted (with effect on 1 April 2015 and applying for the 2015–16 and later
+income years), on 24 February 2016, by section 127(2) of the Taxation (Annual Rates for 2015–16,
+Research and Development, and Remedial Matters) Act 2016 (2016 No 1).
+Section EE 61(7B) heading: replaced, on 1 April 2024, by section 60(3) (and see section 60(5) for
+application) of the Taxation (Annual Rates for 2023–24, Multinational Tax, and Remedial Matters)
+Act 2024 (2024 No 11).
+Section EE 61(7B): replaced, on 1 April 2024, by section 60(3) (and see section 60(5) for applica‐
+tion) of the Taxation (Annual Rates for 2023–24, Multinational Tax, and Remedial Matters) Act 2024
+(2024 No 11).
+Section EE 61(8) heading: inserted, on 1 April 2008, by section 358 of the Taxation (Business
+Taxation and Remedial Matters) Act 2007 (2007 No 109).
+Section EE 61(8): inserted, on 1 April 2008, by section 358 of the Taxation (Business Taxation and
+Remedial Matters) Act 2007 (2007 No 109).
+Section EE 61 list of defined terms building: inserted, on 1 April 2024, by section 60(4)(b) (and
+see section 60(5) for application) of the Taxation (Annual Rates for 2023–24, Multinational Tax, and
+Remedial Matters) Act 2024 (2024 No 11).
+Section EE 61 list of defined terms building: repealed, on 1 April 2020, by section 10(4)(a) (and
+see section 10(5) for application) of the COVID-19 Response (Taxation and Social Assistance Urgent
+Measures) Act 2020 (2020 No 8).
+Section EE 61 list of defined terms design registration: inserted (with effect on 1 April 2015),
+on 24 February 2016, by section 127(3) of the Taxation (Annual Rates for 2015–16, Research and
+Development, and Remedial Matters) Act 2016 (2016 No 1).
+Section EE 61 list of defined terms economic rate: inserted, on 1 April 2011 (applying for the
+2011–12 and later income years), by section 81(5) of the Taxation (Budget Measures) Act 2010
+(2010 No 27).
+Section EE 61 list of defined terms estimated useful life: inserted, on 1 April 2011 (applying for
+the 2011–12 and later income years), by section 81(5) of the Taxation (Budget Measures) Act 2010
+(2010 No 27).
+Section EE 61 list of defined terms provisional rate: inserted, on 1 April 2011 (applying for the
+2011–12 and later income years), by section 81(5) of the Taxation (Budget Measures) Act 2010
+(2010 No 27).
+Section EE 61 list of defined terms residential building: repealed, on 1 April 2024, by section
+60(4)(a) (and see section 60(5) for application) of the Taxation (Annual Rates for 2023–24, Multina‐
+tional Tax, and Remedial Matters) Act 2024 (2024 No 11).
+Section EE 61 list of defined terms special excluded depreciable property: inserted, on 1 April
+2024, by section 60(4)(b) (and see section 60(5) for application) of the Taxation (Annual Rates for
+2023–24, Multinational Tax, and Remedial Matters) Act 2024 (2024 No 11).
+Section EE 61 list of defined terms special excluded depreciable property: repealed, on 1 April
+2020, by section 10(4)(a) (and see section 10(5) for application) of the COVID-19 Response (Taxa‐
+tion and Social Assistance Urgent Measures) Act 2020 (2020 No 8).
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EE 61
+1003
+
+EE 62 Meaning of depreciable intangible property
+Meaning
+(1)
+Depreciable intangible property means the property listed in schedule 14
+(Depreciable intangible property).
+Criteria for listing in schedule 14
+(2)
+For property to be listed in schedule 14, the criteria are as follows:
+(a)
+it must be intangible; and
+(b)
+it must have a finite useful life that can be estimated with a reasonable
+degree of certainty on the date of its acquisition.
+Schedule 14 prevails
+(3)
+Property that is listed in schedule 14 is depreciable intangible property even if
+the criteria are not met.
+Defined in this Act: acquire, depreciable intangible property, property
+Compare: 2004 No 35 s EE 53
+EE 63 Meaning of estimated useful life
+Meaning for item of depreciable property, except for copyright in sound
+recording
+(1)
+Estimated useful life, for an item of depreciable property, other than a copy‐
+right in a sound recording, means the period over which the item might reason‐
+ably be expected to be useful in deriving assessable income or carrying on a
+business for the purpose of deriving assessable income, taking into account—
+(a)
+the passage of time, likely wear and tear, exhaustion, and obsolescence;
+and
+(b)
+an assumption of normal and reasonable maintenance.
+Meaning for copyright in sound recording
+(2)
+Estimated useful life, for a copyright in a sound recording, means the period
+from the time at which the copyright might reasonably be expected to be first
+useful in deriving assessable income until the end of the income year in which
+it might reasonably be expected that 90% of all the income that will be derived
+from it has been derived.
+Defined in this Act: assessable income, business, depreciable property, estimated useful life, income
+year, sound recording
+Compare: 2004 No 35 s EE 54
+EE 64 Meaning of excluded depreciable property
+Meaning
+(1)
+Excluded depreciable property means, for a person,—
+(a)
+depreciable property for whose acquisition or construction the person
+entered into a binding contract before 16 December 1991; or
+Part E s EE 62
+Income Tax Act 2007
+Version as at
+2 February 2025
+1004
+
+(b)
+depreciable property that the person used or had available for use for
+any purpose whatever within New Zealand, other than as trading stock,
+before 1 April 1993; or
+(c)
+depreciable property that is an intangible item that the person used or
+had available for use before 1 April 1993; or
+(d)
+depreciable property that is or has been a qualifying asset for the person;
+or
+(e)
+depreciable property to the extent to which it is or has been a qualifying
+improvement for the person.
+Exclusion
+(2)
+Excluded depreciable property does not include property to which both the
+following apply:
+(a)
+it existed at the end of the 1992–93 income year; and
+(b)
+the Commissioner allowed it to be accounted for in that income year
+using the standard value method, the replacement value method, or the
+annual revaluation method.
+Another exclusion
+(3)
+Excluded depreciable property does not include special excluded depreciable
+property.
+Another exclusion
+[Repealed]
+(3)
+[Repealed]
+Defined in this Act: Commissioner, depreciable property, excluded depreciable property, income
+year, New Zealand, property, qualifying improvement, qualifying asset, special excluded depreciable
+property, trading stock
+Compare: 2004 No 35 s EE 55
+Section EE 64(1)(a): amended (with effect on 1 April 2015 and applying for the 2015–16 and later
+income years), on 24 February 2016, by section 242(1) of the Taxation (Annual Rates for 2015–16,
+Research and Development, and Remedial Matters) Act 2016 (2016 No 1).
+Section EE 64(3) heading: inserted, on 1 April 2024, by section 61(1) (and see section 61(3) for
+application) of the Taxation (Annual Rates for 2023–24, Multinational Tax, and Remedial Matters)
+Act 2024 (2024 No 11).
+Section EE 64(3): inserted, on 1 April 2024, by section 61(1) (and see section 61(3) for application)
+of the Taxation (Annual Rates for 2023–24, Multinational Tax, and Remedial Matters) Act 2024
+(2024 No 11).
+Section EE 64(3) heading: repealed, on 1 April 2020, pursuant to section 11(1) (and see section 11(3)
+for application) of the COVID-19 Response (Taxation and Social Assistance Urgent Measures) Act
+2020 (2020 No 8).
+Section EE 64(3): repealed, on 1 April 2020, by section 11(1) (and see section 11(3) for application)
+of the COVID-19 Response (Taxation and Social Assistance Urgent Measures) Act 2020 (2020
+No 8).
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EE 64
+1005
+
+Section EE 64 list of defined terms special excluded depreciable property: inserted, on 1 April
+2024, by section 61(2) (and see section 61(3) for application) of the Taxation (Annual Rates for
+2023–24, Multinational Tax, and Remedial Matters) Act 2024 (2024 No 11).
+Section EE 64 list of defined terms special excluded depreciable property: repealed, on 1 April
+2020, by section 11(2) (and see section 11(3) for application) of the COVID-19 Response (Taxation
+and Social Assistance Urgent Measures) Act 2020 (2020 No 8).
+EE 65 Meaning of maximum pooling value
+Meaning
+(1)
+Maximum pooling value, for an item of depreciable property, means the
+greater of—
+(a)
+$5,000; and
+(b)
+the value set in a determination issued under section 91AAL of the Tax
+Administration Act 1994 applying to the item.
+Increase in specified sum
+(2)
+The Governor-General may make an Order in Council increasing the sum
+specified in subsection (1)(a).
+Secondary legislation
+(3)
+An Order in Council under subsection (2) is secondary legislation (see Part 3 of
+the Legislation Act 2019 for publication requirements).
+Defined in this Act: depreciable property, maximum pooling value
+Compare: 2004 No 35 s EE 56
+Legislation Act 2019 requirements for secondary legislation made under this section
+Publication
+PCO must publish it on the legislation website and notify
+it in the Gazette
+LA19 s 69(1)(c)
+Presentation
+The Minister must present it to the House of
+Representatives
+LA19 s 114, Sch 1
+cl 32(1)(a)
+Disallowance
+It may be disallowed by the House of Representatives
+LA19 ss 115, 116
+This note is not part of the Act.
+Section EE 65(1)(a): the sum specified in this paragraph was increased, on 1 July 2015 (applying
+for the 2015–16 income year and later income years), by clause 3(1) of the Income Tax (Maximum
+Pooling Value) Order 2015 (LI 2015/141).
+Section EE 65(3) heading: inserted, on 28 October 2021, by section 3 of the Secondary Legislation
+Act 2021 (2021 No 7).
+Section EE 65(3): inserted, on 28 October 2021, by section 3 of the Secondary Legislation Act 2021
+(2021 No 7).
+EE 66 Meaning of poolable property
+Meaning
+(1)
+Poolable property, for an income year, means an item of depreciable property
+that a person owns to which subsections (2) to (4) apply.
+Not a building
+(2)
+The item is not a building.
+Part E s EE 65
+Income Tax Act 2007
+Version as at
+2 February 2025
+1006
+
+Maximum pooling value or globo method
+(3)
+The item—
+(a)
+is acquired in the income year for a cost equal to or less than its maxi‐
+mum pooling value; or
+(b)
+was previously accounted for separately but has, as at the start of the
+income year, an adjusted tax value equal to or less than its maximum
+pooling value; or
+(c)
+was accounted for at the end of the 1992–93 income year using, with the
+Commissioner’s permission, the globo accounting method.
+Wholly used or subject to fringe benefit tax
+(4)
+The item—
+(a)
+is wholly used or available for use by the person in deriving assessable
+income or carrying on a business for the purpose of deriving assessable
+income; or
+(b)
+to the extent to which it is not wholly used or available for use by the
+person in deriving assessable income or carrying on a business for the
+purpose of deriving assessable income, is used in a way that is subject to
+fringe benefit tax.
+Defined in this Act: acquire, adjusted tax value, assessable income, building, business, Commis‐
+sioner, depreciable property, fringe benefit tax, income year, maximum pooling value, own, poolable
+property
+Compare: 2004 No 35 s EE 57
+Section EE 66 list of defined terms building: inserted (with effect on 30 July 2009), on 28 May 2010,
+by section 84 of the Taxation (Budget Measures) Act 2010 (2010 No 27).
+EE 67 Other definitions
+In this Act,—
+depreciation method means a method described in section EE 12
+diminishing value method means the method of calculating an amount of
+depreciation loss for an item of depreciable property by subtracting, in each
+income year, a constant percentage of the item’s adjusted tax value from the
+item’s adjusted tax value
+diminishing value rate means the rate that a person using the diminishing
+value method applies to an item of depreciable property
+economic rate means the economic depreciation rate of an item of depreciable
+property, set under sections EE 27 to EE 30
+estimated residual market value means, for an item of depreciable property,
+its market value at the end of its estimated useful life, estimated reasonably as
+at the date of acquisition and based on an assumption of normal and reasonable
+maintenance over its estimated useful life
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EE 67
+1007
+
+fixed life intangible property means property that—
+(a)
+is depreciable intangible property; and
+(b)
+has a legal life that could reasonably be expected, on the date of the
+property’s acquisition, to be the same length as the property’s remaining
+estimated useful life
+improvement means an alteration, extension, or repair of an item of depre‐
+ciable property that increases its capital value
+international aircraft means a jet-engined aircraft that a person uses in an
+income year mainly in regular commercial service to transport passengers
+between New Zealand and any other place
+legal life,—
+(a)
+for an item to which paragraphs (b) to (d) do not apply, means the num‐
+ber of years, months, and days for which an owner’s interest in an item
+of intangible property exists under the contract or statute that creates the
+owner’s interest, assuming that the owner exercises any rights of renewal
+or extension that are either essentially unconditional or conditional on
+the payment of predetermined fees:
+(b)
+for an item that is a patent application, a design registration application,
+a patent, or a design registration, means the legal life under paragraph
+(a) that a patent or design registration would have if granted when the
+relevant application is first lodged:
+(bb)
+for an item that is industrial artistic copyright, means the number of
+years, months, and days for which protection against copyright infringe‐
+ment is available as a result of section 75(1)(c) to (e) of the Copyright
+Act 1994:
+(c)
+for an item that is plant variety rights, means the total of—
+(i)
+the legal life that the rights would have under paragraph (a); and
+(ii)
+the number of whole calendar months during which the person
+owns the plant variety rights application in relation to which the
+rights are granted:
+(d)
+for a person and a right (a land right) that is a leasehold estate, or a
+licence to use land, means the number of years, months, and days for
+which the person or an associated person has an owner’s interest in the
+land right, or in a consecutive or successive land right, under the contract
+or statute that creates the owner’s interest, determined—
+(i)
+when the person acquires the owner’s interest; and
+(ii)
+assuming that the person or associated person exercises rights
+of renewal, extension, or further grant that are either essentially
+unconditional or conditional on the payment of predetermined
+fees
+Part E s EE 67
+Income Tax Act 2007
+Version as at
+2 February 2025
+1008
+
+petroleum-related depreciable property means depreciable property that is—
+(a)
+petroleum drilling rigs; or
+(b)
+support vessels for offshore petroleum drilling rigs; or
+(c)
+support vessels for offshore petroleum production platforms
+pool means items of depreciable property that a person chooses under section
+EE 12 to depreciate as a pool using the pool method
+pool method means the method of calculating an amount of depreciation loss
+set out in section EE 21
+provisional rate means a provisional rate as described in section EE 35
+special excluded depreciable property means all buildings that are not items
+specified in schedule 39 (Items for purposes of definition of special excluded
+depreciable property)
+special excluded depreciable property [Repealed]
+special rate means a special rate as described in section EE 35
+straight-line method means the method of calculating an amount of depreci‐
+ation loss for an item of depreciable property by subtracting, in each income
+year, a constant percentage of the item’s cost, to its owner, from the item’s
+adjusted tax value
+straight-line rate means the rate that a person using the straight-line method
+applies to an item of depreciable property.
+Defined in this Act: acquire, adjusted tax value, amount, building, depreciable intangible property,
+depreciable property, depreciation loss, depreciation method, design registration, design registration
+application, diminishing value method, diminishing value rate, economic rate, estimated residual
+market value, estimated useful life, fixed life intangible property, improvement, income year,
+industrial artistic copyright, international aircraft, legal life, New Zealand, own, pay, petroleum,
+petroleum-related depreciable property, plant variety rights, pool, pool method, property, provisional
+rate, special excluded depreciable property, special rate, straight-line method, straight-line rate
+Compare: 2004 No 35 s EE 58
+Section EE 67 legal life paragraph (a): amended, on 1 April 2015, by section 68(1) of the Taxation
+(Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+Section EE 67 legal life paragraph (b): replaced (with effect on 1 April 2015 and applying for the
+2015–16 and later income years), on 24 February 2016, by section 128(1) of the Taxation (Annual
+Rates for 2015–16, Research and Development, and Remedial Matters) Act 2016 (2016 No 1).
+Section EE 67 legal life paragraph (bb): inserted (with effect on 1 April 2015 and applying for the
+2015–16 and later income years), on 24 February 2016, by section 128(1) of the Taxation (Annual
+Rates for 2015–16, Research and Development, and Remedial Matters) Act 2016 (2016 No 1).
+Section EE 67 legal life paragraph (c)(ii): amended, on 1 April 2015, by section 68(2) of the Taxation
+(Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+Section EE 67 legal life paragraph (d): inserted, on 1 April 2015, by section 68(3) of the Taxation
+(Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+Section EE 67 special excluded depreciable property: inserted, on 1 April 2024, by section 62(1)
+(and see section 62(2) for application) of the Taxation (Annual Rates for 2023–24, Multinational Tax,
+and Remedial Matters) Act 2024 (2024 No 11).
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EE 67
+1009
+
+Section EE 67 special excluded depreciable property: repealed, on 1 April 2020, by section 12(1)
+(and see section 12(2) for application) of the COVID-19 Response (Taxation and Social Assistance
+Urgent Measures) Act 2020 (2020 No 8).
+Section EE 67 list of defined terms building: inserted (with effect on 30 July 2009), on 28 May 2010,
+by section 84 of the Taxation (Budget Measures) Act 2010 (2010 No 27).
+Section EE 67 list of defined terms design registration: inserted (with effect on 1 April 2015),
+on 24 February 2016, by section 128(2) of the Taxation (Annual Rates for 2015–16, Research and
+Development, and Remedial Matters) Act 2016 (2016 No 1).
+Section EE 67 list of defined terms design registration application: inserted (with effect on 1 April
+2015), on 24 February 2016, by section 128(2) of the Taxation (Annual Rates for 2015–16, Research
+and Development, and Remedial Matters) Act 2016 (2016 No 1).
+Section EE 67 list of defined terms industrial artistic copyright: inserted (with effect on 1 April
+2015), on 24 February 2016, by section 128(2) of the Taxation (Annual Rates for 2015–16, Research
+and Development, and Remedial Matters) Act 2016 (2016 No 1).
+Section EE 67 list of defined terms special excluded depreciable property: inserted, on 1 April
+2011 (applying for the 2011–12 and later income years), by section 83(2) of the Taxation (Budget
+Measures) Act 2010 (2010 No 27).
+Subpart EF—Taxes and levies
+Contents
+Page
+EF 1
+Fringe benefit tax
+1010
+EF 2
+Employer’s superannuation contribution tax
+1010
+EF 3
+Accident compensation levies and premiums
+1011
+EF 4
+Use of money interest payable by Commissioner
+1012
+EF 5
+Use of money interest payable by person
+1014
+EF 6
+Different tax years [Repealed]
+1015
+EF 1 Fringe benefit tax
+Fringe benefit tax for which a deduction is allowed may be deducted only in
+the income year in which the relevant fringe benefits are provided or granted,
+whether or not the tax actually becomes due and payable in the income year.
+Defined in this Act: deduction, fringe benefit tax, income year, pay
+Compare: 2004 No 35 s EF 1
+EF 2 Employer’s superannuation contribution tax
+An amount of employer’s superannuation contribution tax (ESCT) for which
+a deduction is allowed may be deducted only in the income year in which
+the employer’s superannuation cash contributions to which the tax relates are
+made, whether or not the tax actually becomes due and payable in the income
+year.
+Defined in this Act: deduction, employer’s superannuation cash contribution, ESCT, income year,
+pay
+Compare: 2004 No 35 s EF 2
+Part E s EF 1
+Income Tax Act 2007
+Version as at
+2 February 2025
+1010
+
+Section EF 2: amended (with effect on 1 April 2008), on 6 October 2009, by section 121(1) of the
+Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+Section EF 2 list of defined terms employer’s superannuation cash contribution: inserted (with
+effect on 1 April 2008), on 6 October 2009, by section 121(2) of the Taxation (International Taxation,
+Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+Section EF 2 list of defined terms employer’s superannuation contribution: repealed (with effect
+on 1 April 2008), on 6 October 2009, by section 121(2) of the Taxation (International Taxation, Life
+Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+EF 3 Accident compensation levies and premiums
+Timing of deduction
+(1)
+A deduction that an employer or self-employed person is allowed for an
+Accident Compensation Corporation (ACC) levy or premium is allocated to
+the income year in which it becomes due and payable, except as provided in
+subsection (2) or (3).
+Earlier income year
+(2)
+If a deduction for an ACC levy or premium has been allocated to an income
+year earlier than the income year in which the levy or premium becomes
+due and payable and, because of the time bar or for another reason, the
+Commissioner cannot lawfully amend the assessment for the income year, the
+deduction is allocated to the income year in which it was allowed.
+Balance dates between 1 October and 6 April
+(3)
+If a person’s income year ends on a balance date falling between 1 October and
+6 April (both dates inclusive), an ACC levy or premium that is due on a date in
+schedule 3, part A, column H (Payment of provisional tax and terminal tax) is
+treated as if it were due and payable on the relevant date in schedule 3, part A,
+column G for the person’s corresponding income year.
+References to dates in schedule 3
+(4)
+For the purposes of subsection (3), references to the date in schedule 3, part A,
+columns G and H (which refer to months only and not days) are references to
+the day in the relevant month that is fixed by the following:
+(a)
+the definition of instalment date in section YA 1 (Definitions); and
+(b)
+sections RA 3 (Terminal tax obligations), RC 1(2), and RC 20 to RC 24
+(which relate to provisional tax instalments in transitional years).
+Meaning of ACC levy or premium
+(5)
+In this section, ACC levy or premium means any of the following levies,
+premiums, or penalties:
+(a)
+the following levy or premium:
+(i)
+a levy to fund the Work Account under section 168 of the Acci‐
+dent Compensation Act 2001; or
+(ii)
+an employer’s premium to fund the Employers’ Account under
+section 281B of the Accident Insurance Act 1998:
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EF 3
+1011
+
+(b)
+[Repealed]
+(c)
+the following levy or premium:
+(i)
+a levy to fund the Work Account under section 168B or 211 of the
+Accident Compensation Act 2001; or
+(ii)
+a premium to fund the Self-Employed Work Account under sec‐
+tion 300 of the Accident Insurance Act 1998:
+(d)
+the following levy or premium:
+(i)
+a levy to fund the Earners’ Account under section 219(1) of the
+Accident Compensation Act 2001; or
+(ii)
+a premium to fund the Earners’ Account under section 283(1) of
+the Accident Insurance Act 1998:
+(e)
+an Earners’ Account levy under section 283(2) of the Accident Insurance
+Act 1998:
+(f)
+a levy to meet the costs of the Regulator under section 236 of the
+Accident Insurance Act 1998:
+(g)
+a contribution to the Insolvent Insurers Fund under section 246 or 247 of
+the Accident Insurance Act 1998:
+(h)
+a levy or penalty payable to the Non-Compliers Fund under section 263
+of the Accident Insurance Act 1998:
+(i)
+a base premium under sections 466 to 470 of the Accident Insurance Act
+1998.
+Defined in this Act: ACC levy or premium, Commissioner, deduction, employer, income year, pay,
+time bar
+Compare: 2004 No 35 s EF 3
+Section EF 3(5)(a)(i): amended, on 21 December 2010, by section 189 of the Taxation (GST and
+Remedial Matters) Act 2010 (2010 No 130).
+Section EF 3(5)(b): repealed, on 3 March 2010, by section 49 of the Accident Compensation
+Amendment Act 2010 (2010 No 1).
+Section EF 3(5)(c)(i): amended, on 21 December 2010, by section 189 of the Taxation (GST and
+Remedial Matters) Act 2010 (2010 No 130).
+Section EF 3(5)(d)(i): amended, on 21 December 2010, by section 189 of the Taxation (GST and
+Remedial Matters) Act 2010 (2010 No 130).
+Section EF 3(5)(e): substituted, on 3 March 2010, by section 49 of the Accident Compensation
+Amendment Act 2010 (2010 No 1).
+EF 4 Use of money interest payable by Commissioner
+Timing of income
+(1)
+Income that is interest payable by the Commissioner to a person under Part 7 of
+the Tax Administration Act 1994 is allocated to the income year in which the
+Commissioner pays the interest.
+Part E s EF 4
+Income Tax Act 2007
+Version as at
+2 February 2025
+1012
+
+Interest paid in same year as liability arises
+[Repealed]
+(2)
+[Repealed]
+Effect of amended assessment
+[Repealed]
+(3)
+[Repealed]
+Amended assessment in same year
+[Repealed]
+(4)
+[Repealed]
+Defined in this Act: Commissioner, income, income year, interest, pay
+Compare: 2004 No 35 s EF 4
+Section EF 4(1): amended (with effect on 1 April 2011), on 29 August 2011 (applying for the
+2011–12 and later income years), by section 28(1) of the Taxation (Tax Administration and Remedial
+Matters) Act 2011 (2011 No 63).
+Section EF 4(2) heading: repealed (with effect on 1 April 2011), on 29 August 2011 (applying for the
+2011–12 and later income years), pursuant to section 28(2) of the Taxation (Tax Administration and
+Remedial Matters) Act 2011 (2011 No 63).
+Section EF 4(2): repealed (with effect on 1 April 2011), on 29 August 2011 (applying for the 2011–
+12 and later income years), by section 28(2) of the Taxation (Tax Administration and Remedial
+Matters) Act 2011 (2011 No 63).
+Section EF 4(3) heading: repealed (with effect on 1 April 2011), on 29 August 2011 (applying for the
+2011–12 and later income years), pursuant to section 28(2) of the Taxation (Tax Administration and
+Remedial Matters) Act 2011 (2011 No 63).
+Section EF 4(3): repealed (with effect on 1 April 2011), on 29 August 2011 (applying for the 2011–
+12 and later income years), by section 28(2) of the Taxation (Tax Administration and Remedial
+Matters) Act 2011 (2011 No 63).
+Section EF 4(4) heading: repealed (with effect on 1 April 2011), on 29 August 2011 (applying for the
+2011–12 and later income years), pursuant to section 28(2) of the Taxation (Tax Administration and
+Remedial Matters) Act 2011 (2011 No 63).
+Section EF 4(4): repealed (with effect on 1 April 2011), on 29 August 2011 (applying for the 2011–
+12 and later income years), by section 28(2) of the Taxation (Tax Administration and Remedial
+Matters) Act 2011 (2011 No 63).
+Section EF 4 list of defined terms assessment: repealed (with effect on 1 April 2011), on 29 August
+2011, by section 28(3) of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011
+No 63).
+Section EF 4 list of defined terms notice: repealed (with effect on 1 April 2011), on 29 August 2011,
+by section 28(3) of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+Section EF 4 list of defined terms tax year: repealed (with effect on 1 April 2011), on 29 August
+2011, by section 28(3) of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011
+No 63).
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EF 4
+1013
+
+EF 5 Use of money interest payable by person
+Timing of deduction
+(1)
+A deduction for interest payable by a person to the Commissioner under Part
+7 of the Tax Administration Act 1994 is allocated to the income year in which
+the person pays the interest.
+Assessment made in same year as liability arises
+[Repealed]
+(2)
+[Repealed]
+Effect of amended assessment
+[Repealed]
+(3)
+[Repealed]
+Terminal amended assessment
+[Repealed]
+(4)
+[Repealed]
+Amended assessment in same year
+[Repealed]
+(5)
+[Repealed]
+Defined in this Act: Commissioner, deduction, income year, pay
+Compare: 2004 No 35 s EF 5
+Section EF 5(1): substituted (with effect on 1 April 2011), on 29 August 2011 (applying for the
+2011–12 and later income years), by section 29(1) of the Taxation (Tax Administration and Remedial
+Matters) Act 2011 (2011 No 63).
+Section EF 5(2) heading: repealed (with effect on 1 April 2011), on 29 August 2011 (applying for the
+2011–12 and later income years), pursuant to section 29(2) of the Taxation (Tax Administration and
+Remedial Matters) Act 2011 (2011 No 63).
+Section EF 5(2): amended (with effect on 1 April 2008), on 2 November 2012, by section 38 of the
+Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+Section EF 5(2): repealed (with effect on 1 April 2011), on 29 August 2011 (applying for the 2011–
+12 and later income years), by section 29(2) of the Taxation (Tax Administration and Remedial
+Matters) Act 2011 (2011 No 63).
+Section EF 5(3) heading: repealed (with effect on 1 April 2011), on 29 August 2011 (applying for the
+2011–12 and later income years), pursuant to section 29(2) of the Taxation (Tax Administration and
+Remedial Matters) Act 2011 (2011 No 63).
+Section EF 5(3): repealed (with effect on 1 April 2011), on 29 August 2011 (applying for the 2011–
+12 and later income years), by section 29(2) of the Taxation (Tax Administration and Remedial
+Matters) Act 2011 (2011 No 63).
+Section EF 5(4) heading: repealed (with effect on 1 April 2011), on 29 August 2011 (applying for the
+2011–12 and later income years), pursuant to section 29(2) of the Taxation (Tax Administration and
+Remedial Matters) Act 2011 (2011 No 63).
+Section EF 5(4): repealed (with effect on 1 April 2011), on 29 August 2011 (applying for the 2011–
+12 and later income years), by section 29(2) of the Taxation (Tax Administration and Remedial
+Matters) Act 2011 (2011 No 63).
+Part E s EF 5
+Income Tax Act 2007
+Version as at
+2 February 2025
+1014
+
+Section EF 5(5) heading: repealed (with effect on 1 April 2011), on 29 August 2011 (applying for the
+2011–12 and later income years), pursuant to section 29(2) of the Taxation (Tax Administration and
+Remedial Matters) Act 2011 (2011 No 63).
+Section EF 5(5): repealed (with effect on 1 April 2011), on 29 August 2011 (applying for the 2011–
+12 and later income years), by section 29(2) of the Taxation (Tax Administration and Remedial
+Matters) Act 2011 (2011 No 63).
+Section EF 5 list of defined terms assessment: repealed (with effect on 1 April 2011), on 29 August
+2011, by section 29(3) of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011
+No 63).
+Section EF 5 list of defined terms Commissioner: substituted (with effect on 1 April 2011), on
+29 August 2011, by section 29(3) of the Taxation (Tax Administration and Remedial Matters) Act
+2011 (2011 No 63).
+Section EF 5 list of defined terms deduction: substituted (with effect on 1 April 2011), on 29 August
+2011, by section 29(3) of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011
+No 63).
+Section EF 5 list of defined terms income tax liability: repealed (with effect on 1 April 2011), on
+29 August 2011, by section 29(3) of the Taxation (Tax Administration and Remedial Matters) Act
+2011 (2011 No 63).
+Section EF 5 list of defined terms income year: substituted (with effect on 1 April 2011), on
+29 August 2011, by section 29(3) of the Taxation (Tax Administration and Remedial Matters) Act
+2011 (2011 No 63).
+Section EF 5 list of defined terms interest: repealed (with effect on 1 April 2011), on 29 August
+2011, by section 29(3) of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011
+No 63).
+Section EF 5 list of defined terms liquidation: repealed (with effect on 1 April 2011), on 29 August
+2011, by section 29(3) of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011
+No 63).
+Section EF 5 list of defined terms notice: repealed (with effect on 1 April 2011), on 29 August 2011,
+by section 29(3) of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+Section EF 5 list of defined terms pay: substituted (with effect on 1 April 2011), on 29 August 2011,
+by section 29(3) of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+Section EF 5 list of defined terms tax year: repealed (with effect on 1 April 2011), on 29 August
+2011, by section 29(3) of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011
+No 63).
+EF 6 Different tax years
+[Repealed]
+Section EF 6: repealed (with effect on 1 April 2011), on 29 August 2011 (applying for the 2011–12
+and later income years), by section 30(1) of the Taxation (Tax Administration and Remedial Matters)
+Act 2011 (2011 No 63).
+Subpart EG—Recognition of accounting treatment
+Contents
+Page
+EG 1
+Election to use balance date used in foreign country
+1016
+EG 2
+Adjustment for changes to accounting practice
+1018
+EG 3
+Allocation of income, deductions, and tax credits by portfolio tax
+rate entity [Repealed]
+1019
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EF 6
+1015
+
+EG 1 Election to use balance date used in foreign country
+When this section applies
+(1)
+This section applies when—
+(a)
+a person has foreign source income or foreign expenditure that is taken
+into account in determining the income tax, not merely the withholding
+tax, payable by them in a foreign country or territory; and
+(b)
+the foreign source income or foreign expenditure has been included in 1
+of their income tax returns in the country or territory; and
+(c)
+the annual income tax balance date that is relevant for them for the
+income tax return in the country or territory falls in a period that is an
+income year for them; and
+(d)
+if the person did not make an election under this section,—
+(i)
+the foreign source income would be allocated to their previous
+income year; or
+(ii)
+the foreign expenditure would be a deduction allocated to the pre‐
+vious income year if the only income of the person were foreign
+source income to which this section applies.
+Election to allocate
+(2)
+If the person has not already included the foreign source income or foreign
+expenditure in their return of income for the previous tax year, they may
+choose to allocate the foreign source income or the foreign expenditure to the
+income year referred to in subsection (1)(c).
+How election made
+(3)
+The person makes the election by including the foreign source income or
+foreign expenditure in their return of income for the income year referred to in
+subsection (1)(c).
+What election applies to
+(4)
+The election applies to all the person’s foreign source income and foreign
+expenditure to which subsection (1) applies, except for—
+(a)
+income or expenditure under the financial arrangements rules, unless the
+Commissioner notifies the person that the election can apply; or
+(b)
+dividends, unless the Commissioner notifies the person that the election
+can apply and the person is not a company; or
+(c)
+attributed controlled foreign company (CFC) income; or
+(d)
+foreign investment fund (FIF) income or income derived from an attrib‐
+uting interest; or
+(e)
+in the case of foreign expenditure, foreign expenditure that would be
+allowed as a deduction if the only income of the person were income to
+which paragraphs (a) to (d) apply.
+Part E s EG 1
+Income Tax Act 2007
+Version as at
+2 February 2025
+1016
+
+Timing of income
+(5)
+The foreign source income and foreign expenditure to which the election
+applies is allocated to the income year referred to in subsection (1)(c).
+Election treated as continuing
+(6)
+An election made by a person under subsection (2) applies for the income year
+referred to in subsection (1)(c) and all later income years, unless—
+(a)
+the person seeks the Commissioner’s agreement to revoke the election,
+and the Commissioner notifies them that they may revoke the election;
+or
+(b)
+the person’s net income for the relevant income year would be more than
+$100,000 if their only income in the income year were foreign source
+income.
+Net income of more than $100,000
+(7)
+If subsection (6)(b) applies,—
+(a)
+foreign source income and foreign expenditure is allocated to the income
+year referred to in subsection (1)(c) only if it was derived or incurred in
+that year; and
+(b)
+foreign source income and foreign expenditure to which the election
+would have applied if subsection (6)(b) had not existed is allocated to
+the previous income year; and
+(c)
+if necessary, the previous tax year’s return is amended.
+Factors considered
+(8)
+In deciding whether to agree to an election applying to income or expenditure
+under the financial arrangements rules or dividends, the Commissioner must
+consider—
+(a)
+whether the person is likely to incur significant compliance costs if the
+Commissioner does not agree to the election; and
+(b)
+the risk to the revenue if the Commissioner agrees to the election; and
+(c)
+any other factors the Commissioner considers relevant.
+Person ceasing to be, or becoming, resident
+(9)
+If the person ceases to be, or becomes, resident in New Zealand, this section
+applies in the same way as for other persons except that—
+(a)
+it does not apply to income or expenditure that is allocated, other than
+under this section, to a period when the person is not resident in New
+Zealand; and
+(b)
+if it allocates foreign source income derived or foreign expenditure
+incurred while the person is resident in New Zealand to a period after the
+person has ceased to be resident in New Zealand,—
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EG 1
+1017
+
+(i)
+the foreign source income is assessable income in the income year
+in which the foreign source income is allocated under this section,
+despite section BD 1(5)(c) (Income, exempt income, excluded
+income, non-residents’ foreign-sourced income, and assessable
+income); and
+(ii)
+the foreign expenditure is allowed as a deduction in the income
+year to which the foreign expenditure is allocated under this sec‐
+tion.
+Some definitions
+(10)
+In this section,—
+annual income tax balance date includes a date that is substantially equiva‐
+lent to an annual income tax balance date
+foreign expenditure means expenditure that is incurred in deriving foreign
+source income
+foreign source income means income that does not have a source in New
+Zealand and that is not exempt income.
+Defined in this Act: annual income tax balance date, assessable income, attributed CFC income,
+attributing interest, Commissioner, company, deduction, dividend, exempt income, FIF income,
+financial arrangements rules, foreign expenditure, foreign source income, income, income tax,
+income year, net income, notify, pay, resident in New Zealand, return of income, source in New
+Zealand, tax year
+Compare: 2004 No 35 s EG 1
+Section EG 1(4)(a): amended, on 2 June 2016, by section 16(1) of the Taxation (Transformation: First
+Phase Simplification and Other Measures) Act 2016 (2016 No 27).
+Section EG 1(4)(b): amended, on 2 June 2016, by section 16(2) of the Taxation (Transformation:
+First Phase Simplification and Other Measures) Act 2016 (2016 No 27).
+Section EG 1(6): amended (with effect on 1 April 2008 and applying for the 2008–09 and later
+income years), on 30 June 2014, by section 69(1) of the Taxation (Annual Rates, Employee Allow‐
+ances, and Remedial Matters) Act 2014 (2014 No 39).
+Section EG 1(6)(a): replaced, on 2 June 2016, by section 16(3) of the Taxation (Transformation: First
+Phase Simplification and Other Measures) Act 2016 (2016 No 27).
+Section EG 1(10) foreign source income: amended, on 21 December 2010, by section 55(1) of the
+Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+Section EG 1 list of defined terms derived from New Zealand: repealed, on 21 December 2010, by
+section 55(2)(a) of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+Section EG 1 list of defined terms notify: inserted, on 2 June 2016, by section 16(4) of the Taxation
+(Transformation: First Phase Simplification and Other Measures) Act 2016 (2016 No 27).
+Section EG 1 list of defined terms source in New Zealand: inserted, on 21 December 2010, by
+section 55(2)(b) of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+EG 2 Adjustment for changes to accounting practice
+When this section applies
+(1)
+This section applies in an income year (the year of change) when a person
+changes from—
+Part E s EG 2
+Income Tax Act 2007
+Version as at
+2 February 2025
+1018
+
+(a)
+a cash accounting method to an accrual accounting method of calculat‐
+ing their income tax liability; or
+(b)
+an accrual accounting method to a cash accounting method of calculat‐
+ing their income tax liability.
+From cash to accrual accounting method
+(2)
+If subsection (1)(a) applies,—
+(a)
+an amount owed to the person on the last day of the income year before
+the year of change is income of the person in the year of change; and
+(b)
+an amount owed by the person on the last day of the income year before
+the year of change is allowed as a deduction in the year of change.
+From accrual to cash accounting method
+(3)
+If subsection (1)(b) applies,—
+(a)
+an amount equal to the total of all amounts owing by the person in the
+year of change that have been allowed as a deduction in earlier income
+years is income of the person in the year of change; and
+(b)
+an amount equal to the total of all amounts owing to the person in the
+year of change that have been treated as income of the person in earlier
+income years is allowed as a deduction in the year of change.
+Some definitions
+(4)
+In this section,—
+accrual accounting method means a method of accounting that is regarded as
+accrual accounting under generally accepted accounting practice
+cash accounting method means a method of accounting by which the income
+tax liability of a person is calculated by reference to cash receipts or outgoings.
+Defined in this Act: accrual accounting method, amount, cash accounting method, deduction, gener‐
+ally accepted accounting practice, income, income tax liability, income year
+Compare: 2004 No 35 s EG 2
+EG 3 Allocation of income, deductions, and tax credits by portfolio tax rate
+entity
+[Repealed]
+Section EG 3: repealed, on 1 April 2010 (applying for the 2010–11 and later income years), by
+section 122(1) of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act
+2009 (2009 No 34).
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EG 3
+1019
+
+Subpart EH—Income equalisation schemes
+Contents
+Page
+Introductory provisions
+EH 1
+Income equalisation schemes
+1023
+EH 2
+Deposits to be paid into Crown Bank Account
+1024
+Main income equalisation scheme
+Application
+EH 3
+Persons to whom main income equalisation scheme applies
+1024
+Deposits and accounts
+EH 4
+Main deposit
+1025
+EH 5
+Main income equalisation account
+1026
+Interest
+EH 6
+Interest on deposits in main income equalisation account
+1027
+Deduction
+EH 7
+Deduction of deposit
+1028
+Refunds: automatic
+EH 8
+Refund of excess deposit
+1028
+EH 9
+Income does not include excess deposit
+1028
+EH 10
+Refund at end of 5 years
+1029
+EH 11
+Income when refund given at end of 5 years
+1029
+Refunds: on application
+EH 12
+Application for refund by person, trustee of estate, Official
+Assignee, or liquidator
+1029
+EH 13
+Refund on application
+1030
+EH 14
+Income when refund given on application
+1030
+EH 15
+Refund for development or recovery
+1031
+EH 16
+Income when refund given for development or recovery
+1032
+EH 17
+Refund on retirement
+1032
+EH 18
+Income when refund given on retirement, and election to allocate
+amount to earlier year
+1033
+EH 19
+Refund on death
+1033
+EH 20
+Income when refund given on death
+1034
+EH 21
+Income when refund given on death, and election to allocate
+amount to earlier year
+1034
+EH 22
+Income when refund given on death, and election to allocate
+amount to later year or years
+1035
+EH 23
+Refund on bankruptcy
+1036
+EH 24
+Income when refund given on bankruptcy
+1036
+Part E s EG 3
+Income Tax Act 2007
+Version as at
+2 February 2025
+1020
+
+EH 25
+Refund on liquidation
+1036
+EH 26
+Income when refund given on liquidation
+1037
+Refunds: general provisions
+EH 27
+Amendment of assessment
+1037
+EH 28
+Minimum refund
+1037
+EH 29
+Deposits from which refunds come
+1037
+Tax credit
+EH 30
+When person entitled to tax credit
+1037
+EH 31
+Kind and amount of refund that entitles person to tax credit
+1038
+EH 32
+Kind of person entitled to tax credit
+1038
+EH 33
+Amount of tax credit
+1039
+Definitions
+EH 34
+Meaning of income from forestry
+1039
+EH 35
+Meaning of main maximum deposit
+1040
+EH 36
+Other definitions
+1041
+Adverse event income equalisation scheme
+[Repealed]
+Application
+[Repealed]
+EH 37
+Persons to whom adverse event income equalisation scheme
+applies [Repealed]
+1043
+Deposits and accounts
+[Repealed]
+EH 38
+Adverse event deposit [Repealed]
+1043
+EH 39
+Adverse event income equalisation account [Repealed]
+1043
+Interest
+[Repealed]
+EH 40
+Interest on deposits in adverse event income equalisation account
+[Repealed]
+1044
+Deduction
+[Repealed]
+EH 41
+Deduction of deposit [Repealed]
+1044
+Refunds: automatic
+[Repealed]
+EH 42
+Refund of excess deposit [Repealed]
+1044
+EH 43
+Income does not include excess deposit [Repealed]
+1044
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EG 3
+1021
+
+Refunds: on application
+[Repealed]
+EH 44
+Application for refund by person, trustee of estate, Official
+Assignee, or liquidator [Repealed]
+1045
+EH 45
+Refund on application [Repealed]
+1045
+EH 46
+Income when refund given on application [Repealed]
+1045
+EH 47
+Refund on retirement [Repealed]
+1045
+EH 48
+Income when refund given on retirement, and election to allocate
+amount to earlier year [Repealed]
+1045
+EH 49
+Refund on death [Repealed]
+1045
+EH 50
+Income when refund given on death [Repealed]
+1046
+EH 51
+Income when refund given on death, and election to allocate
+amount to earlier year [Repealed]
+1046
+EH 52
+Income when refund given on death, and election to allocate
+amount to later year or years [Repealed]
+1046
+EH 53
+Refund on bankruptcy [Repealed]
+1046
+EH 54
+Income when refund given on bankruptcy [Repealed]
+1046
+EH 55
+Refund on liquidation [Repealed]
+1046
+EH 56
+Income when refund given on liquidation [Repealed]
+1046
+Refunds: general provisions
+[Repealed]
+EH 57
+Amendment of assessment [Repealed]
+1047
+EH 58
+Minimum refund [Repealed]
+1047
+EH 59
+Deposits from which refunds come [Repealed]
+1047
+Transfers
+[Repealed]
+EH 60
+Transfer of deposit [Repealed]
+1047
+Definitions
+[Repealed]
+EH 61
+Meaning of adverse event maximum deposit [Repealed]
+1048
+EH 62
+Other definitions [Repealed]
+1048
+Thinning operations income equalisation scheme
+Application
+EH 63
+Persons to whom thinning operations income equalisation scheme
+applies
+1048
+Deposits and accounts
+EH 64
+Thinning operations deposit
+1049
+EH 65
+Thinning operations income equalisation account
+1050
+Part E s EG 3
+Income Tax Act 2007
+Version as at
+2 February 2025
+1022
+
+Interest
+EH 66
+Interest on deposits in thinning operations income equalisation
+account
+1051
+Deductions
+EH 67
+Deduction of deposit
+1051
+Refunds: automatic
+EH 68
+Refund of excess deposit
+1052
+EH 69
+Income does not include excess deposit
+1052
+Refunds: on application
+EH 70
+Application for refund by person or liquidator
+1052
+EH 71
+Refund on application
+1053
+EH 72
+Income when refund given on application
+1053
+EH 73
+Refund for development or recovery
+1054
+EH 74
+Income when refund given for development or recovery
+1054
+EH 75
+Refund on liquidation
+1055
+EH 76
+Income when refund given on liquidation
+1055
+Refunds: general provisions, and tax credits
+EH 77
+Sections of main income equalisation scheme that apply to
+thinning operations income equalisation scheme
+1056
+Definitions
+EH 78
+Meaning of thinning operations maximum deposit
+1056
+EH 79
+Other definitions
+1056
+Introductory provisions
+EH 1 Income equalisation schemes
+Description
+(1)
+An income equalisation scheme allows a person to reduce their net income for
+a tax year by making a deposit with the Commissioner for the corresponding
+income year.
+Two schemes
+(2)
+The 2 income equalisation schemes are—
+(a)
+the main income equalisation scheme, described in sections EH 3 to
+EH 36 and EZ 80:
+(b)
+[Repealed]
+(c)
+the thinning operations income equalisation scheme, described in sec‐
+tions EH 63 to EH 79.
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EH 1
+1023
+
+Meaning of terms
+(3)
+Terms used in the 2 schemes are defined as follows:
+(a)
+terms used specifically in the main income equalisation scheme are
+defined in sections EH 34 to EH 36:
+(b)
+[Repealed]
+(c)
+terms used specifically in the thinning operations income equalisation
+scheme are defined in sections EH 78 and EH 79.
+Defined in this Act: adverse event income equalisation scheme, Commissioner, corresponding
+income year, deposit, income, main income equalisation scheme, net income, person, tax year,
+thinning operations income equalisation scheme
+Compare: 2004 No 35 s EH 1
+Section EH 1(2) heading: amended, on 18 March 2019, by section 166(1) of the Taxation (Annual
+Rates for 2018–19, Modernising Tax Administration, and Remedial Matters) Act 2019 (2019 No 5).
+Section EH 1(2): amended (with effect on 18 March 2019), on 26 June 2019, by section 61 of the
+Taxation (Annual Rates for 2019–20, GST Offshore Supplier Registration, and Remedial Matters)
+Act 2019 (2019 No 33).
+Section EH 1(2)(a): amended (with effect on 1 April 2017), on 30 March 2021, by section 36(1)
+(and see section 36(2) for application) of the Taxation (Annual Rates for 2020–21, Feasibility
+Expenditure, and Remedial Matters) Act 2021 (2021 No 8).
+Section EH 1(2)(b): repealed, on 18 March 2019, by section 166(2) (and see section 166(5) for appli‐
+cation) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+Section EH 1(3): amended, on 18 March 2019, by section 166(3) of the Taxation (Annual Rates for
+2018–19, Modernising Tax Administration, and Remedial Matters) Act 2019 (2019 No 5).
+Section EH 1(3)(b): repealed, on 18 March 2019, by section 166(4) (and see section 166(5) for appli‐
+cation) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+EH 2 Deposits to be paid into Crown Bank Account
+Every deposit a person makes with the Commissioner under a scheme referred
+to in section EH 1(2)—
+(a)
+is public money; and
+(b)
+must be paid into a Crown Bank Account.
+Defined in this Act: Commissioner, deposit, pay, person
+Section EH 2: replaced, on 30 March 2022, by section 83 of the Taxation (Annual Rates for 2021–22,
+GST, and Remedial Matters) Act 2022 (2022 No 10).
+Main income equalisation scheme
+Application
+EH 3 Persons to whom main income equalisation scheme applies
+Meaning of farmer, fisher, and forester for main income equalisation scheme
+(1)
+The main income equalisation scheme applies to—
+Part E s EH 2
+Income Tax Act 2007
+Version as at
+2 February 2025
+1024
+
+(a)
+a farmer, which means a person carrying on a farming or agricultural
+business on land in New Zealand; or
+(b)
+a fisher, which means a person carrying on a fishing business; or
+(c)
+a forester, which means a person who—
+(i)
+derives income from forestry; and
+(ii)
+is not a company, a public authority, a Maori authority, or an
+unincorporated body.
+Meaning of person for main income equalisation scheme
+(2)
+In the main income equalisation scheme, person means a farmer, fisher, or
+forester.
+Defined in this Act: business, company, farmer, fisher, fishing business, forester, income from
+forestry, main income equalisation scheme, Maori authority, New Zealand, person, public authority
+Compare: 2004 No 35 s EH 3
+Deposits and accounts
+EH 4 Main deposit
+Deposit for business or forestry
+(1)
+A person may make a payment to the Commissioner for entry in their main
+income equalisation account for an accounting year as follows:
+(a)
+a farmer may make a payment for the farmer’s farming or agricultural
+business:
+(b)
+a fisher may make a payment for the fisher’s fishing business:
+(c)
+a forester may make a payment for the forester’s income from forestry.
+Upper limit of deposit
+(2)
+A person must not make, for an accounting year, deposits that in total are more
+than their main maximum deposit for the tax year.
+Lower limit of deposit
+(3)
+A person must not make, for an accounting year, a deposit less than the lesser
+of—
+(a)
+$200; and
+(b)
+the difference between—
+(i)
+the total of the deposits the person has previously made for the
+accounting year; and
+(ii)
+the person’s main maximum deposit for the accounting year.
+Time of making deposit
+(4)
+A person makes a deposit for an accounting year by—
+(a)
+making the deposit during the accounting year; or
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EH 4
+1025
+
+(b)
+doing both the following:
+(i)
+making the deposit during the specified period for the accounting
+year; and
+(ii)
+at the time of making it, giving the Commissioner notice that the
+deposit is for the accounting year; or
+(c)
+doing both the following:
+(i)
+making the deposit within a time that is after the end of the
+specified period for the accounting year but that is allowed by the
+Commissioner in a case or class of cases; and
+(ii)
+at the time of making it, giving the Commissioner notice that the
+deposit is for the accounting year.
+Limit on making deposit
+(5)
+If a refund has been made to a person for an accounting year under section
+EH 13 or EH 15, the person may later make a deposit for that accounting year
+only if the Commissioner is satisfied, before the deposit is made, that all the
+refund has been used to develop or expand a farmer’s business, if the person is
+a farmer, or a fishing business, if the person is a fisher, or the means by which
+a forester derives income from forestry, if the person is a forester, or has been
+used for the purpose stated in section EH 15(3)(a) for which the refund was
+made.
+Defined in this Act: accounting year, business, Commissioner, deposit, farmer, fisher, fishing busi‐
+ness, forester, income from forestry, main deposit, main income equalisation account, main maxi‐
+mum deposit, notice, pay, person, specified period
+Compare: 2004 No 35 s EH 4
+Section EH 4(5): amended, on 18 March 2019, by section 167(1) (and see section 167(2) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+EH 5 Main income equalisation account
+Person’s account
+(1)
+The Commissioner must keep a main income equalisation account in the name
+of every person who makes a deposit with the Commissioner.
+Deposits in account
+(2)
+Every deposit a person makes with the Commissioner must be entered in the
+person’s main income equalisation account.
+Amounts in accounts
+(3)
+The only amounts that may be entered in a person’s main income equalisation
+account are—
+(a)
+deposits made by the person with the Commissioner; and
+(b)
+interest paid under section EH 6.
+Part E s EH 5
+Income Tax Act 2007
+Version as at
+2 February 2025
+1026
+
+Amounts not available to others
+(4)
+Despite section FC 2 (Transfer at market value), amounts entered in a person’s
+main income equalisation account must not, while they are in the account,—
+(a)
+be assigned or charged in any way; or
+(b)
+pass by operation of law to, or into the custody or control of, someone
+else, except when the person is bankrupt or has been put into liquidation;
+or
+(c)
+be assets for the payment of the person’s debts or liabilities, except when
+the person is bankrupt or has been put into liquidation; or
+(d)
+be assets for the payment of the debts or liabilities of a dead person’s
+estate.
+Amounts available only for refunds
+(5)
+The only payments that may be made from a person’s main income equalisa‐
+tion account are refunds under any of sections EH 8, EH 10, EH 13, EH 15, EH
+17, EH 19, EH 23, EH 25, EZ 80, and EZ 81.
+Defined in this Act: amount, Commissioner, deposit, interest, liquidation, main income equalisation
+account, pay, person
+Compare: 2004 No 35 s EH 5
+Section EH 5(5): amended, on 30 March 2021, by section 37 of the Taxation (Annual Rates for
+2020–21, Feasibility Expenditure, and Remedial Matters) Act 2021 (2021 No 8).
+Interest
+EH 6 Interest on deposits in main income equalisation account
+No interest payable
+(1)
+No interest is payable on a deposit in a main income equalisation account that
+is refunded within 1 year of the date of deposit.
+Interest payable
+(2)
+Interest is payable on every other deposit in a main income equalisation
+account.
+Period
+(3)
+Interest is computed with daily rests from the date of acknowledgment of the
+receipt of the deposit until the date the deposit is refunded.
+Date to which accrues
+(4)
+Interest on a deposit accrues until the earlier of—
+(a)
+31 March in each year; and
+(b)
+the date the deposit is refunded.
+Added to deposit
+(5)
+Accrued interest on a deposit is added to the deposit.
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EH 6
+1027
+
+Rate
+(6)
+The interest rate is 3% a year.
+Defined in this Act: deposit, interest, main income equalisation account, pay, year
+Compare: 2004 No 35 s EH 6
+Deduction
+EH 7 Deduction of deposit
+When this section applies
+(1)
+This section applies when a person is allowed a deduction under section DQ 1
+(Main income equalisation scheme).
+Amount of deduction
+(2)
+The amount of the deduction is the lesser of—
+(a)
+the total of the person’s deposits for the accounting year; and
+(b)
+their main maximum deposit for the accounting year.
+Timing of deduction
+(3)
+The person is allowed the deduction in the accounting year.
+Defined in this Act: accounting year, amount, corresponding income year, deduction, deposit, main
+maximum deposit, person
+Compare: 2004 No 35 s EH 7
+Refunds: automatic
+EH 8 Refund of excess deposit
+When this section applies
+(1)
+This section applies when a person’s deposits for an accounting year are more
+than their main maximum deposit for the accounting year.
+Refund
+(2)
+The Commissioner must refund the excess to the person as soon as practicable
+after the date the deposit ends.
+Defined in this Act: accounting year, Commissioner, date the deposit ends, deposit, main maximum
+deposit, person
+Compare: 2004 No 35 s EH 8
+EH 9 Income does not include excess deposit
+A refund under section EH 8 is excluded income under section CX 51 (Income
+equalisation schemes).
+Defined in this Act: excluded income
+Compare: 2004 No 35 s EH 9
+Part E s EH 7
+Income Tax Act 2007
+Version as at
+2 February 2025
+1028
+
+EH 10 Refund at end of 5 years
+When this section applies
+(1)
+This section applies when a deposit is in a person’s main income equalisation
+account at the end of 5 years after the end of the accounting year for which the
+deposit was made.
+Refund
+(2)
+The Commissioner must refund the deposit to the person. Section EH 28
+overrides this subsection.
+Defined in this Act: accounting year, Commissioner, deposit, main income equalisation account,
+person, year
+Compare: 2004 No 35 s EH 10
+EH 11 Income when refund given at end of 5 years
+A refund under section EH 10 is income, under section CB 27 (Income equal‐
+isation schemes), derived by the person and is allocated to the income year in
+which the refund is given.
+Defined in this Act: income, income year, person
+Compare: 2004 No 35 s EH 11
+Refunds: on application
+EH 12 Application for refund by person, trustee of estate, Official Assignee, or
+liquidator
+Who may apply
+(1)
+The following may apply to the Commissioner for a refund of some or all of
+the amount in a person’s main income equalisation account:
+(a)
+the person may apply under section EH 13, EH 15, or EH 17:
+(b)
+the trustee of the person’s estate may apply under section EH 19:
+(c)
+the Official Assignee having charge of the person’s estate may apply
+under section EH 23:
+(d)
+the liquidator appointed for the person may apply under section EH 25.
+Application
+(2)
+An application for a refund must—
+(a)
+[Repealed]
+(b)
+state the grounds on which it is made; and
+(c)
+state the amount applied for.
+Defined in this Act: amount, apply, Commissioner, liquidation, main income equalisation account,
+person, trustee
+Compare: 2004 No 35 s EH 12
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EH 12
+1029
+
+Section EH 12(2)(a): repealed, on 2 June 2016, by section 17(1) of the Taxation (Transformation:
+First Phase Simplification and Other Measures) Act 2016 (2016 No 27).
+Section EH 12 list of defined terms apply: inserted, on 2 June 2016, by section 17(2) of the Taxation
+(Transformation: First Phase Simplification and Other Measures) Act 2016 (2016 No 27).
+EH 13 Refund on application
+When this section applies
+(1)
+This section applies when a person wants a refund of some or all of the amount
+in their main income equalisation account, and none of sections EH 8, EH 10,
+EH 15, EH 17, EH 19, EH 23, EH 25, EZ 80, and EZ 81 applies.
+Refund
+(2)
+The Commissioner must refund to the person the amount applied for, to the
+extent to which it can be made up of 1 or more deposits that have been in the
+person’s main income equalisation account for at least 1 year before the date
+the deposit ends. Section EH 28 overrides this subsection.
+Defined in this Act: amount, apply, Commissioner, date the deposit ends, deposit, main income
+equalisation account, person, year
+Compare: 2004 No 35 s EH 13
+Section EH 13 heading: amended, on 2 June 2016, by section 18(1) of the Taxation (Transformation:
+First Phase Simplification and Other Measures) Act 2016 (2016 No 27).
+Section EH 13(1): amended, on 30 March 2021, by section 38 of the Taxation (Annual Rates for
+2020–21, Feasibility Expenditure, and Remedial Matters) Act 2021 (2021 No 8).
+Section EH 13 list of defined terms apply: inserted, on 2 June 2016, by section 18(2) of the Taxation
+(Transformation: First Phase Simplification and Other Measures) Act 2016 (2016 No 27).
+EH 14 Income when refund given on application
+Year of income
+(1)
+A refund under section EH 13 is income, under section CB 27 (Income equal‐
+isation schemes), derived by the person and is allocated to the income year in
+which the Commissioner receives the application for the refund.
+When year of income may be different
+(2)
+However, subsection (3) applies instead of subsection (1) if—
+(a)
+the Commissioner receives the application for a refund in the specified
+period for an accounting year or, if the Commissioner allows in a case or
+class of cases, within a longer period; and
+(b)
+the person chooses in the application that the refund is to be income in
+the accounting year to which the specified period or the longer period
+relates.
+Part E s EH 13
+Income Tax Act 2007
+Version as at
+2 February 2025
+1030
+
+Different year of income
+(3)
+The refund is income, under section CB 27, and is allocated to the income year
+to which the specified period or the longer period relates.
+Defined in this Act: accounting year, apply, Commissioner, income, income year, person, specified
+period
+Compare: 2004 No 35 s EH 14
+Section EH 14 heading: amended, on 2 June 2016, by section 19(1) of the Taxation (Transformation:
+First Phase Simplification and Other Measures) Act 2016 (2016 No 27).
+Section EH 14 list of defined terms apply: inserted, on 2 June 2016, by section 19(2) of the Taxation
+(Transformation: First Phase Simplification and Other Measures) Act 2016 (2016 No 27).
+EH 15 Refund for development or recovery
+Refund for development: application of subsection (2)
+(1)
+Subsection (2) applies when a person wants a refund of some or all of the
+amount in their main income equalisation account for either or both of the
+following purposes:
+(a)
+to enable them to undertake, immediately after the refund is given, plan‐
+ned development or maintenance work for their farming or agricultural
+business, fishing business, or forestry operation:
+(b)
+to enable them to buy, immediately after the refund is given, livestock
+for use in their farming business, other than livestock replacing livestock
+disposed of or lost as a result of a self-assessed adverse event.
+Refund
+(2)
+If the Commissioner is satisfied that the person will use the refund for either
+or both of the purposes, the Commissioner must refund to them the amount
+applied for, to the extent to which it can be made up of 1 or more deposits
+that have been in their main income equalisation account for at least 6 months
+before the date the deposit ends. Section EH 28 overrides this subsection.
+Refund for recovery: application of subsection (4)
+(3)
+Subsection (4) applies when a person wants a refund of some or all of the
+amount in their main income equalisation account for 1 or more of the follow‐
+ing purposes:
+(a)
+to enable them to buy, immediately after the refund is given, livestock
+for use in their farming business to replace livestock disposed of or lost
+as a result of a self-assessed adverse event:
+(b)
+to avoid them suffering serious hardship:
+(c)
+to do anything else that the Commissioner determines, in a case or class
+of cases, is a purpose for which a refund should be given.
+Refund
+(4)
+If the Commissioner is satisfied that the person will use the refund for 1 or
+more of the purposes, the Commissioner must refund to them the amount
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EH 15
+1031
+
+applied for, regardless of the length of time it has been in the account. Section
+EH 28 overrides this subsection.
+Defined in this Act: amount, apply, business, Commissioner, date the deposit ends, deposit, fishing
+business, main income equalisation account, person, self-assessed adverse event
+Compare: 2004 No 35 s EH 15
+Section EH 15 list of defined terms apply: inserted, on 2 June 2016, by section 74 of the Taxation
+(Transformation: First Phase Simplification and Other Measures) Act 2016 (2016 No 27).
+EH 16 Income when refund given for development or recovery
+Year of income
+(1)
+A refund under section EH 15 is income, under section CB 27 (Income
+equalisation schemes), derived by the person in the income year in which the
+Commissioner receives the application for the refund.
+When year of income may be different
+(2)
+However, subsection (3) applies instead of subsection (1) if—
+(a)
+the Commissioner receives the application for a refund in the specified
+period for an accounting year or, if the Commissioner allows in a case or
+class of cases, within a longer period; and
+(b)
+the person chooses in the application that the refund is to be income in
+the accounting year to which the specified period or the longer period
+relates.
+Different year of income
+(3)
+The refund is income, under section CB 27, and is allocated to the income year
+to which the specified period or the longer period relates.
+Defined in this Act: accounting year, apply, Commissioner, income, income year, person, specified
+period
+Compare: 2004 No 35 s EH 16
+Section EH 16 list of defined terms apply: inserted, on 2 June 2016, by section 74 of the Taxation
+(Transformation: First Phase Simplification and Other Measures) Act 2016 (2016 No 27).
+EH 17 Refund on retirement
+When this section applies
+(1)
+This section applies when a farmer or a fisher—
+(a)
+has a main income equalisation account; and
+(b)
+is neither a company nor a trustee; and
+(c)
+retires from the farming or agricultural business or the fishing business.
+Refund
+(2)
+The Commissioner must refund to the person the amount that, on the date
+the deposit ends, is in their main income equalisation account, regardless of
+Part E s EH 16
+Income Tax Act 2007
+Version as at
+2 February 2025
+1032
+
+the length of time it has been in the account. Section EH 28 overrides this
+subsection.
+Defined in this Act: amount, business, Commissioner, company, date the deposit ends, farmer, fisher,
+fishing business, main income equalisation account, person, trustee
+Compare: 2004 No 35 s EH 17
+EH 18 Income when refund given on retirement, and election to allocate amount
+to earlier year
+Year of income
+(1)
+A refund under section EH 17 is income, under section CB 27 (Income equal‐
+isation schemes), derived by the person in the income year in which they retire.
+When year of income may be different
+(2)
+However, subsection (3) applies instead of subsection (1) if—
+(a)
+the refund includes a deposit made for an accounting year earlier than
+the tax year in which the person retires; and
+(b)
+the person chooses to allocate some or all of the deposit to the earlier
+accounting year.
+Different year of income
+(3)
+The amount allocated by the person to the earlier accounting year is income,
+under section CB 27, derived by them in the corresponding income year.
+How election made
+(4)
+A person makes an election under this section by giving the Commissioner
+notice within 1 of the following times:
+(a)
+the time within which the person is required to file a return of income for
+the tax year corresponding to the accounting year in which they retire:
+(b)
+a further time allowed by the Commissioner in a case or class of cases.
+Defined in this Act: accounting year, amount, Commissioner, corresponding income year, deposit,
+income, income year, notice, person, return of income, tax year
+Compare: 2004 No 35 s EH 18
+EH 19 Refund on death
+When this section applies
+(1)
+This section applies when a person—
+(a)
+has a main income equalisation account; and
+(b)
+dies.
+Refund
+(2)
+Despite section FC 2 (Transfer at market value), the Commissioner must refund
+to the trustee of the person’s estate the amount that, on the date the deposit
+ends, is in the person’s main income equalisation account, regardless of the
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EH 19
+1033
+
+length of time it has been in the account. Section EH 28 overrides this subsec‐
+tion.
+Defined in this Act: amount, Commissioner, date the deposit ends, main income equalisation account,
+person, trustee
+Compare: 2004 No 35 s EH 19
+EH 20 Income when refund given on death
+Year of income
+(1)
+A refund under section EH 19 is income, under section CB 27 (Income equal‐
+isation schemes), derived by the person immediately before their death.
+When year of income may be different
+(2)
+However, section EH 21 or EH 22 applies instead of subsection (1) if the
+circumstances described in section EH 21(1) or EH 22(1) apply in the person’s
+case.
+Defined in this Act: income, person
+Compare: 2004 No 35 s EH 20
+EH 21 Income when refund given on death, and election to allocate amount to
+earlier year
+When this section applies
+(1)
+This section applies when—
+(a)
+a refund under section EH 19 includes a deposit made for an accounting
+year earlier than the accounting year in which the person dies; and
+(b)
+the trustee of the person’s estate chooses to allocate some or all of the
+deposit to the earlier accounting year.
+Different year of income
+(2)
+The amount allocated by the trustee to the earlier accounting year is income,
+under section CB 27 (Income equalisation schemes), derived by the person in
+the corresponding income year.
+How election made
+(3)
+A trustee makes an election under this section by giving the Commissioner
+notice within 1 of the following times:
+(a)
+the time within which the trustee is required to file a return of the
+person’s income for the period to the date of the person’s death:
+(b)
+a further time allowed by the Commissioner in a case or class of cases.
+Defined in this Act: accounting year, amount, Commissioner, corresponding income year, deposit,
+income, notice, person, return of income, trustee
+Compare: 2004 No 35 s EH 21
+Part E s EH 20
+Income Tax Act 2007
+Version as at
+2 February 2025
+1034
+
+EH 22 Income when refund given on death, and election to allocate amount to
+later year or years
+When this section applies
+(1)
+This section applies when—
+(a)
+the trustee of the person’s estate does not make an election under section
+EH 21; and
+(b)
+the trustee chooses to allocate some or all of the amount that is in the
+person’s main income equalisation account on the date of the person’s
+death to an accounting year or years after that date.
+Accounting year or years referred to in subsection (1)(b)
+(2)
+The accounting year or years referred to in subsection (1)(b) must be within the
+earlier of—
+(a)
+the 3 years after the date of the person’s death; and
+(b)
+the 5 years after the end of the accounting year for which a deposit or a
+part of a deposit was made, if the amount that the trustee allocates to a
+later accounting year or years includes the deposit or part of it.
+Allocated amount remains in account
+(3)
+An amount allocated by the trustee to a later accounting year remains in the
+person’s main income equalisation account until—
+(a)
+it is refunded to the trustee in the accounting year to which it is alloca‐
+ted; or
+(b)
+it is not refunded because of the application of section EH 28.
+Different year of income
+(4)
+An amount allocated by the trustee to a later accounting year is income, under
+section CB 27 (Income equalisation schemes), derived by the person in the
+corresponding accounting year.
+How election made
+(5)
+A trustee makes an election under this section by a notice that—
+(a)
+specifies—
+(i)
+each amount allocated to a later accounting year; and
+(ii)
+the accounting year to which each amount is allocated; and
+(b)
+is given to the Commissioner within 1 of the following times:
+(i)
+the time within which the trustee is required to file a return of the
+person’s income for the period to the date of the person’s death:
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EH 22
+1035
+
+(ii)
+a further time allowed by the Commissioner in a case or class of
+cases.
+Defined in this Act: accounting year, amount, Commissioner, corresponding income year, deposit,
+income, main income equalisation account, notice, person, return of income, trustee, year
+Compare: 2004 No 35 s EH 22
+EH 23 Refund on bankruptcy
+When this section applies
+(1)
+This section applies when a person—
+(a)
+has a main income equalisation account; and
+(b)
+is bankrupt.
+Refund
+(2)
+The Commissioner must refund to the Official Assignee having charge of the
+person’s estate the amount that, on the date the deposit ends, is in the person’s
+main income equalisation account, regardless of the length of time it has been
+in the account. Section EH 28 overrides this subsection.
+Defined in this Act: amount, Commissioner, date the deposit ends, main income equalisation account,
+person
+Compare: 2004 No 35 s EH 23
+EH 24 Income when refund given on bankruptcy
+A refund under section EH 23 is income, under section CB 27 (Income equal‐
+isation schemes), derived by the person immediately before the bankruptcy
+starts.
+Defined in this Act: income, person
+Compare: 2004 No 35 s EH 24
+EH 25 Refund on liquidation
+When this section applies
+(1)
+This section applies when a person—
+(a)
+has a main income equalisation account; and
+(b)
+is put into liquidation.
+Refund
+(2)
+The Commissioner must refund to the liquidator appointed for the person the
+amount that, on the date the deposit ends, is in the person’s main income
+equalisation account, regardless of the length of time it has been in the account.
+Section EH 28 overrides this subsection.
+Defined in this Act: amount, Commissioner, date the deposit ends, liquidation, main income equalisa‐
+tion account, person
+Compare: 2004 No 35 s EH 25
+Part E s EH 23
+Income Tax Act 2007
+Version as at
+2 February 2025
+1036
+
+EH 26 Income when refund given on liquidation
+A refund under section EH 25 is income, under section CB 27 (Income equal‐
+isation schemes), derived by the person immediately before the liquidation
+starts.
+Defined in this Act: income, liquidation, person
+Compare: 2004 No 35 s EH 26
+Refunds: general provisions
+EH 27 Amendment of assessment
+Despite the time bar, the Commissioner may amend an assessment at any time
+in order to give effect to section EH 18 or EH 21 or EH 22.
+Defined in this Act: assessment, Commissioner, time bar
+Compare: 2004 No 35 s EH 27
+EH 28 Minimum refund
+The Commissioner must not give a refund under any of sections EH 10, EH 13,
+EH 15, EH 17, EH 19, EH 22(3), EH 23, and EH 25 that is less than the lesser
+of—
+(a)
+$200; and
+(b)
+the balance in the person’s main income equalisation account on the date
+the deposit ends.
+Defined in this Act: Commissioner, date the deposit ends, main income equalisation account, person
+Compare: 2004 No 35 s EH 28
+EH 29 Deposits from which refunds come
+Each refund a person is given is treated as coming from the total amount of
+their deposits in the order in which the person made the deposits.
+Defined in this Act: amount, deposit, person
+Compare: 2004 No 35 s EH 29
+Tax credit
+EH 30 When person entitled to tax credit
+A person who is given a refund is entitled to a tax credit if—
+(a)
+the refund is of the kind and amount described in section EH 31; and
+(b)
+the person is of the kind described in section EH 32.
+Defined in this Act: amount, person
+Compare: 2004 No 35 s EH 30
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EH 30
+1037
+
+EH 31 Kind and amount of refund that entitles person to tax credit
+Kind
+(1)
+A refund that entitles a person to a tax credit is 1 to which both the following
+apply:
+(a)
+the refund is given under any of sections EH 10, EH 13, EH 15, EH 17,
+EH 19, EH 22(3), EH 23, and EH 25; and
+(b)
+the refund does not come from a deposit made for the accounting year
+in which the refund is given; if the refund comes in part from a deposit
+made for the accounting year in which the refund is given and in part
+from a deposit made for some other accounting year, the refund that
+entitles the person to a tax credit is the part coming from the deposit for
+some other accounting year.
+Amount
+(2)
+Once a refund qualifies under subsection (1) as a refund that entitles a person
+to a tax credit, the amount of the refund is the lesser of the following:
+(a)
+the amount of the refund given to the person under any of sections EH
+10, EH 13, EH 15, EH 17, EH 19, EH 22(3), EH 23, and EH 25; and
+(b)
+the total of the amounts by which the person’s income was reduced in 1
+or more earlier accounting years by subtracting the deposit or deposits or
+parts of deposits from which the refund comes.
+Defined in this Act: accounting year, amount, deposit, income, income tax, person, tax credit
+Compare: 2004 No 35 s EH 31
+EH 32 Kind of person entitled to tax credit
+A person in the following circumstances is entitled to a tax credit:
+(a)
+the person’s income in the accounting year in question includes a refund
+of the kind described in section EH 31(1) and of the amount described in
+section EH 31(2); and
+(b)
+because of the refund, the person’s income tax liability for the tax year
+corresponding to the accounting year is increased; and
+(c)
+the amount by which the person’s income tax liability for the corres‐
+ponding tax year is increased because of the refund (the extra tax) is
+more than the total of the amounts by which the person’s income tax
+liability for an earlier tax year or years was decreased because of the
+subtraction of the deposit or deposits or parts of deposits from which the
+refund comes (the tax saving).
+Defined in this Act: accounting year, amount, deposit, income, income tax, income tax liability,
+person, tax credit, tax year
+Compare: 2004 No 35 s EH 32
+Part E s EH 31
+Income Tax Act 2007
+Version as at
+2 February 2025
+1038
+
+EH 33 Amount of tax credit
+The amount of a tax credit to which a person is entitled under section EH 30
+is the amount by which the extra tax, as described in section EH 32(c), is more
+than the tax saving, as described in section EH 32(c).
+Defined in this Act: amount, income tax, tax credit
+Compare: 2004 No 35 s EH 33
+Definitions
+EH 34 Meaning of income from forestry
+Income
+(1)
+Income from forestry—
+(a)
+means income derived from either or both of the disposals described in
+subsection (2) in the circumstances described in subsection (3):
+(b)
+includes permanent forestry income.
+Disposals
+(2)
+The disposals are—
+(a)
+the disposal of timber:
+(b)
+the disposal of a right to cut or remove timber.
+Circumstances
+(3)
+The circumstances are—
+(a)
+the income is derived by a person who is the owner of land in New
+Zealand on which timber is grown, not including a person whose interest
+in the land is that of a licensee; and
+(b)
+the timber the subject of the disposal is standing or cut or fallen timber
+in its natural state grown on the land.
+Defined in this Act: income, income from forestry, New Zealand, own, permanent forestry income,
+person, timber
+Compare: 2004 No 35 s EH 34
+Section EH 34(1): substituted (with effect on 1 April 2008), on 7 December 2009, by section 18(1) of
+the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
+Section EH 34(1)(a): amended (with effect on 1 April 2015 and applying for the 2015–16 and later
+income years), on 24 February 2016, by section 242(1) of the Taxation (Annual Rates for 2015–16,
+Research and Development, and Remedial Matters) Act 2016 (2016 No 1).
+Section EH 34(1)(b): replaced, on 23 June 2020, by section 279 of the Climate Change Response
+(Emissions Trading Reform) Amendment Act 2020 (2020 No 22).
+Section EH 34(2) heading: replaced (with effect on 1 April 2015 and applying for the 2015–16
+and later income years), on 24 February 2016, by section 242(1) of the Taxation (Annual Rates for
+2015–16, Research and Development, and Remedial Matters) Act 2016 (2016 No 1).
+Section EH 34(2): amended (with effect on 1 April 2015 and applying for the 2015–16 and later
+income years), on 24 February 2016, by section 242(1) of the Taxation (Annual Rates for 2015–16,
+Research and Development, and Remedial Matters) Act 2016 (2016 No 1).
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EH 34
+1039
+
+Section EH 34(2)(a): amended (with effect on 1 April 2015 and applying for the 2015–16 and later
+income years), on 24 February 2016, by section 242(1) of the Taxation (Annual Rates for 2015–16,
+Research and Development, and Remedial Matters) Act 2016 (2016 No 1).
+Section EH 34(2)(b): amended (with effect on 1 April 2015 and applying for the 2015–16 and later
+income years), on 24 February 2016, by section 242(1) of the Taxation (Annual Rates for 2015–16,
+Research and Development, and Remedial Matters) Act 2016 (2016 No 1).
+Section EH 34(3)(b): amended (with effect on 1 April 2015 and applying for the 2015–16 and later
+income years), on 24 February 2016, by section 242(1) of the Taxation (Annual Rates for 2015–16,
+Research and Development, and Remedial Matters) Act 2016 (2016 No 1).
+Section EH 34 list of defined terms permanent forestry income: inserted, on 23 June 2020, by
+section 279 of the Climate Change Response (Emissions Trading Reform) Amendment Act 2020
+(2020 No 22).
+Section EH 34 list of defined terms PFSI forestry income: repealed, on 23 June 2020, by section
+279 of the Climate Change Response (Emissions Trading Reform) Amendment Act 2020 (2020
+No 22).
+EH 35 Meaning of main maximum deposit
+Meaning
+(1)
+Main maximum deposit means the maximum deposit that this section says a
+person may make to their main income equalisation account for an accounting
+year.
+Meaning of amount
+(2)
+In subsections (3) to (5), amount means an amount calculated without apply‐
+ing—
+(a)
+any provision, other than section EZ 4B (Cattle destroyed because of
+Mycoplasma bovis: spreading), allocating income derived or expenditure
+incurred to an income year other than the corresponding income year
+in which the income was in fact derived or the expenditure was in fact
+incurred; or
+(b)
+any provision of any of the income equalisation schemes referred to in
+section EH 1(2).
+Maximum deposit of farmer
+(3)
+The maximum deposit that a farmer may make is—
+(a)
+the amount determined by an Order in Council made under subsection
+(6); or
+(b)
+if no order is in force, an amount equal to the net income that the farmer
+would have in the tax year corresponding to the accounting year if—
+(i)
+the farmer derived income only from the farming or agricultural
+business in the accounting year; and
+(ii)
+[Repealed]
+Maximum deposit of fisher
+(4)
+The maximum deposit that a fisher may make is an amount equal to the
+net income that the fisher would have in the tax year corresponding to the
+Part E s EH 35
+Income Tax Act 2007
+Version as at
+2 February 2025
+1040
+
+accounting year if the fisher derived income only from the fishing business in
+the accounting year.
+Maximum deposit of forester
+(5)
+The maximum deposit that a forester may make is an amount equal to the
+net income that the forester would have in the tax year corresponding to
+the accounting year if the forester derived only income from forestry in the
+accounting year.
+Order in Council relating to farmers
+(6)
+The Governor-General may make an Order in Council declaring that the
+maximum deposit a farmer may make for an accounting year or for every
+accounting year is—
+(a)
+an amount calculated in the manner specified in the order; or
+(b)
+an unlimited amount.
+Secondary legislation
+(7)
+An Order in Council under subsection (6) is secondary legislation (see Part 3 of
+the Legislation Act 2019 for publication requirements).
+Defined in this Act: accounting year, amount, business, corresponding income year, deposit, farmer,
+fisher, fishing business, forester, income, main income equalisation account, main maximum deposit,
+net income, income year, pay, person, tax year
+Compare: 2004 No 35 s EH 35
+Legislation Act 2019 requirements for secondary legislation made under this section
+Publication
+PCO must publish it on the legislation website and notify
+it in the Gazette
+LA19 s 69(1)(c)
+Presentation
+The Minister must present it to the House of
+Representatives
+LA19 s 114, Sch 1
+cl 32(1)(a)
+Disallowance
+It may be disallowed by the House of Representatives
+LA19 ss 115, 116
+This note is not part of the Act.
+Section EH 35(2)(a): amended (with effect on 1 April 2017), on 30 March 2021, by section 39(1)
+(and see section 39(2) for application) of the Taxation (Annual Rates for 2020–21, Feasibility
+Expenditure, and Remedial Matters) Act 2021 (2021 No 8).
+Section EH 35(3)(b)(ii): repealed, on 18 March 2019, by section 168(1) (and see section 168(2)
+for application) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and
+Remedial Matters) Act 2019 (2019 No 5).
+Section EH 35(7) heading: inserted, on 28 October 2021, by section 3 of the Secondary Legislation
+Act 2021 (2021 No 7).
+Section EH 35(7): inserted, on 28 October 2021, by section 3 of the Secondary Legislation Act 2021
+(2021 No 7).
+EH 36 Other definitions
+In the main income equalisation scheme,—
+date the deposit ends means—
+(a)
+the date on which the refund is calculated, when section EH 8 applies:
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EH 36
+1041
+
+(b)
+the date that is 5 years after the end of the accounting year for which the
+deposit was made, when section EH 10 applies:
+(c)
+the date on which the Commissioner receives the application for the
+refund, when section EH 13 or EH 15 applies:
+(d)
+the date of the person’s retirement, when section EH 17 applies:
+(e)
+the date of the person’s death, when section EH 19 applies:
+(f)
+the date on which the Commissioner receives notice of the adjudication,
+when section EH 23 applies:
+(g)
+the date on which the Commissioner receives notice of the liquidation,
+when section EH 25 applies
+deposit—
+(a)
+means a main deposit; and
+(b)
+includes, for the purposes of sections EH 6(2) to (4), EH 10 to EH 33,
+and EZ 80(3) and (7)(b), interest that is added to a main deposit under
+section EH 6(5)
+fishing business includes a business of—
+(a)
+fish farming under a licence issued under the Freshwater Fish Farming
+Regulations 1983:
+(b)
+mussel farming:
+(c)
+rock oyster farming
+main deposit means a payment made to the Commissioner under section EH
+4(1)
+main income equalisation account, for a person, means the account that the
+Commissioner keeps in the person’s name under section EH 5
+specified period, for a person’s tax year, means the shorter of—
+(a)
+the period of 6 months after the end of the accounting year that corres‐
+ponds to the tax year; and
+(b)
+the period from the end of the accounting year that corresponds to the
+tax year to the date 1 month after the date by which the person must,
+under section 37 of the Tax Administration Act 1994, file their return of
+income for the accounting year that corresponds to the tax year.
+Defined in this Act: accounting year, apply, business, Commissioner, date the deposit ends, deposit,
+fishing business, interest, liquidation, main deposit, main income equalisation account, main income
+equalisation scheme, pay, person, return of income, specified period, tax year, year
+Compare: 2004 No 35 s EH 37
+Section EH 36 deposit paragraph (b): amended, on 30 March 2021, by section 40 of the Taxation
+(Annual Rates for 2020–21, Feasibility Expenditure, and Remedial Matters) Act 2021 (2021 No 8).
+Section EH 36 list of defined terms apply: inserted, on 2 June 2016, by section 74 of the Taxation
+(Transformation: First Phase Simplification and Other Measures) Act 2016 (2016 No 27).
+Part E s EH 36
+Income Tax Act 2007
+Version as at
+2 February 2025
+1042
+
+Adverse event income equalisation scheme
+[Repealed]
+Heading: repealed, on 18 March 2019, by section 169(1) (and see section 169(11) for application)
+of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters)
+Act 2019 (2019 No 5).
+Application
+[Repealed]
+Heading: repealed, on 18 March 2019, by section 169(1) (and see section 169(11) for application)
+of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters)
+Act 2019 (2019 No 5).
+EH 37 Persons to whom adverse event income equalisation scheme applies
+[Repealed]
+Section EH 37: repealed, on 18 March 2019, by section 169(2) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+Deposits and accounts
+[Repealed]
+Heading: repealed, on 18 March 2019, by section 169(2) (and see section 169(11) for application)
+of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters)
+Act 2019 (2019 No 5).
+EH 38 Adverse event deposit
+[Repealed]
+Section EH 38: repealed, on 18 March 2019, by section 169(3) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+EH 39 Adverse event income equalisation account
+[Repealed]
+Section EH 39: repealed, on 18 March 2019, by section 169(3) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EH 39
+1043
+
+Interest
+[Repealed]
+Heading: repealed, on 18 March 2019, by section 169(3) (and see section 169(11) for application)
+of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters)
+Act 2019 (2019 No 5).
+EH 40 Interest on deposits in adverse event income equalisation account
+[Repealed]
+EH 40: repealed, on 18 March 2019, by section 169(4) (and see section 169(11) for application) of
+the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters)
+Act 2019 (2019 No 5).
+Deduction
+[Repealed]
+Heading: repealed, on 18 March 2019, by section 169(4) (and see section 169(11) for application)
+of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters)
+Act 2019 (2019 No 5).
+EH 41 Deduction of deposit
+[Repealed]
+Section EH 41: repealed, on 18 March 2019, by section 169(5) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+Refunds: automatic
+[Repealed]
+Heading: repealed, on 18 March 2019, by section 169(5) (and see section 169(11) for application)
+of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters)
+Act 2019 (2019 No 5).
+EH 42 Refund of excess deposit
+[Repealed]
+Section EH 42: repealed, on 18 March 2019, by section 169(6) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+EH 43 Income does not include excess deposit
+[Repealed]
+Section EH 43: repealed, on 18 March 2019, by section 169(6) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+Part E s EH 40
+Income Tax Act 2007
+Version as at
+2 February 2025
+1044
+
+Refunds: on application
+[Repealed]
+Heading: repealed, on 18 March 2019, by section 169(6) (and see section 169(11) for application)
+of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters)
+Act 2019 (2019 No 5).
+EH 44 Application for refund by person, trustee of estate, Official Assignee, or
+liquidator
+[Repealed]
+Section EH 44: repealed, on 18 March 2019, by section 169(7) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+EH 45 Refund on application
+[Repealed]
+Section EH 45: repealed, on 18 March 2019, by section 169(7) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+EH 46 Income when refund given on application
+[Repealed]
+Section EH 46: repealed, on 18 March 2019, by section 169(7) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+EH 47 Refund on retirement
+[Repealed]
+Section EH 47: repealed, on 18 March 2019, by section 169(7) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+EH 48 Income when refund given on retirement, and election to allocate amount
+to earlier year
+[Repealed]
+Section EH 48: repealed, on 18 March 2019, by section 169(7) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+EH 49 Refund on death
+[Repealed]
+Section EH 49: repealed, on 18 March 2019, by section 169(7) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EH 49
+1045
+
+EH 50 Income when refund given on death
+[Repealed]
+Section EH 50: repealed, on 18 March 2019, by section 169(7) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+EH 51 Income when refund given on death, and election to allocate amount to
+earlier year
+[Repealed]
+Section EH 51: repealed, on 18 March 2019, by section 169(7) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+EH 52 Income when refund given on death, and election to allocate amount to
+later year or years
+[Repealed]
+Section EH 52: repealed, on 18 March 2019, by section 169(7) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+EH 53 Refund on bankruptcy
+[Repealed]
+Section EH 53: repealed, on 18 March 2019, by section 169(7) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+EH 54 Income when refund given on bankruptcy
+[Repealed]
+Section EH 54: repealed, on 18 March 2019, by section 169(7) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+EH 55 Refund on liquidation
+[Repealed]
+Section EH 55: repealed, on 18 March 2019, by section 169(7) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+EH 56 Income when refund given on liquidation
+[Repealed]
+Section EH 56: repealed, on 18 March 2019, by section 169(7) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+Part E s EH 50
+Income Tax Act 2007
+Version as at
+2 February 2025
+1046
+
+Refunds: general provisions
+[Repealed]
+Heading: repealed, on 18 March 2019, by section 169(7) (and see section 169(11) for application)
+of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters)
+Act 2019 (2019 No 5).
+EH 57 Amendment of assessment
+[Repealed]
+Section EH 57: repealed, on 18 March 2019, by section 169(8) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+EH 58 Minimum refund
+[Repealed]
+Section EH 58: repealed, on 18 March 2019, by section 169(8) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+EH 59 Deposits from which refunds come
+[Repealed]
+Section EH 59: repealed, on 18 March 2019, by section 169(8) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+Transfers
+[Repealed]
+Heading: repealed, on 18 March 2019, by section 169(8) (and see section 169(11) for application)
+of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters)
+Act 2019 (2019 No 5).
+EH 60 Transfer of deposit
+[Repealed]
+Section EH 60: repealed, on 18 March 2019, by section 169(9) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EH 60
+1047
+
+Definitions
+[Repealed]
+Heading: repealed, on 18 March 2019, by section 169(9) (and see section 169(11) for application)
+of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters)
+Act 2019 (2019 No 5).
+EH 61 Meaning of adverse event maximum deposit
+[Repealed]
+Section EH 61: repealed, on 18 March 2019, by section 169(10) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+Section EH 61(3): amended (with effect on 1 April 2017), on 30 March 2021, by section 41 (and see
+section 41(3) for application) of the Taxation (Annual Rates for 2020–21, Feasibility Expenditure,
+and Remedial Matters) Act 2021 (2021 No 8).
+EH 62 Other definitions
+[Repealed]
+Section EH 62: repealed, on 18 March 2019, by section 169(10) (and see section 169(11) for applica‐
+tion) of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial
+Matters) Act 2019 (2019 No 5).
+Thinning operations income equalisation scheme
+Application
+EH 63 Persons to whom thinning operations income equalisation scheme applies
+Person described
+(1)
+The thinning operations income equalisation scheme applies to a company that,
+in an accounting year,—
+(a)
+carries on a forestry business on land in New Zealand; and
+(b)
+derives income from carrying out thinning operations on the land.
+Meaning of person for thinning operations income equalisation scheme
+(2)
+In the thinning operations income equalisation scheme, person means a person
+described in subsection (1).
+Defined in this Act: accounting year, business, company, forestry business, income, New Zealand,
+person, thinning operations, thinning operations income equalisation scheme
+Compare: 2004 No 35 s EH 65
+Section EH 63 list of defined terms forestry business: inserted (with effect on 1 April 2008), on
+7 December 2009, by section 126 of the Taxation (Consequential Rate Alignment and Remedial
+Matters) Act 2009 (2009 No 63).
+Part E s EH 61
+Income Tax Act 2007
+Version as at
+2 February 2025
+1048
+
+Deposits and accounts
+EH 64 Thinning operations deposit
+Deposit for thinning operations
+(1)
+A person may make a payment to the Commissioner for entry in their thinning
+operations income equalisation account for an accounting year in which they
+derive income from carrying out thinning operations.
+Upper limit of deposit
+(2)
+A person must not make, for an accounting year, deposits that in total are more
+than their thinning operations maximum deposit for the accounting year.
+Lower limit of deposit
+(3)
+A person must not make, for an accounting year, a deposit that is less than the
+lesser of—
+(a)
+$200; and
+(b)
+the difference between the total of all the deposits the person has previ‐
+ously made for the accounting year and their thinning operations maxi‐
+mum deposit for the accounting year.
+Time of making deposit
+(4)
+A person makes a deposit for an accounting year by—
+(a)
+making the deposit during the accounting year; or
+(b)
+doing both the following:
+(i)
+making the deposit during the specified period for the accounting
+year; and
+(ii)
+at the time of making it, giving the Commissioner notice that the
+deposit is for the accounting year; or
+(c)
+doing both the following:
+(i)
+making the deposit within a time that is after the end of the
+specified period for the accounting year but that is allowed by the
+Commissioner in a case or class of cases; and
+(ii)
+at the time of making it, giving the Commissioner notice that the
+deposit is for the accounting year.
+Limit on making deposit
+(5)
+If a refund has been made to a person for an accounting year under section EH
+71 or EH 73, the person may later make a deposit for the accounting year only
+Version as at
+2 February 2025
+Income Tax Act 2007
+Part E s EH 64
+1049
+
+if the Commissioner is satisfied, before the deposit is made, that all the refund
+has been used to expand or develop the person’s business.
+Defined in this Act: accounting year, business, Commissioner, deposit, income, notice, pay, person,
+specified period, thinning operations, thinning operations deposit, thinning operations income equal‐
+isation account, thinning operations maximum deposit
+Compare: 2004 No 35 s EH 66
+EH 65 Thinning operations income equalisation account
+Person’s account
+(1)
+The Commissioner must keep a thinning operations income equalisation
+account in the name of every person that makes a deposit with the Commis‐
+sioner.
+Deposits in accounts
+(2)
+Every deposit a person makes with the Commissioner must be entered in their
+thinning operations income equalisation account.
+Amounts in accounts
+(3)
+The only amounts that may be entered in a person’s thinning operations income
+equalisation account are—
+(a)
+deposits made by the person with the Commissioner; and
+(b)
+interest paid under section EH 66.
+Amounts not available to others
+(4)
+Despite section FC 2 (Transfer at market value), amounts entered in a person’s
+thinning operations income equalisation account must not, while they are in the
+account,—
+(a)
+be assigned or charged in any way; or
+(b)
+pass by operation of law to, or into the custody or control of, someone
+else, except when the person has been put into liquidation; or
+(c)
+be assets for the payment of the person’s debts or liabilities, except when
+the person has been put into liquidation.
+Amounts available only for refunds
+(5)
+The only payments that may be made from a person’s thinning operations
+income equalisation account are refunds under any of sections EH 68, EH 71,
+EH 73, and EH 75.
+Defined in this Act: amount, Commissioner, deposit, interest, liquidation, pay, person, thinning
+operations income equalisation account
+Compare: 2004 No 35 s EH 67
+Part E s EH 65
+Income Tax Act 2007
+Version as at
+2 February 2025
+1050

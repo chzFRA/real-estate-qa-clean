@@ -1,0 +1,6 @@
+graph TD
+    A["Raw MCQs"] --> B["cleanup_preds.py"]
+    B --> C["mcq_clean/*.json"]
+    C --> D["cache_preds.py\nLLM Inference"]
+    D --> E["preds.csv"]
+    E --> F["evaluate.py\nAccuracy Eval"]

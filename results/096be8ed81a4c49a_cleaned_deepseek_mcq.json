@@ -1,0 +1,52 @@
+[
+  {
+    "chunk_id": 0,
+    "mcq_text": "Q: 根据《房地产经纪人法（职业行为与客户关怀）规则2012》，以下哪项是房地产经纪人必须遵守的基本要求？  \n\nA. 经纪人可以偶尔隐瞒房产缺陷以促成交易，只要最终价格合理  \nB. 经纪人必须达到职业行为与客户关怀的最低标准，这是纪律处分的参考依据  \nC. 经纪人无需向客户提供投诉渠道信息，除非客户主动询问  \nD. 经纪人只需在首次接触客户时遵守职业准则，后续服务可灵活调整  \n\n正确答案: B  \n\n解析：  \n- 选项B直接对应条文3.3，明确规则设定了经纪人必须遵守的最低标准（minimum standards）并作为纪律参考（reference point for discipline）。  \n- 干扰项设计依据：  \n  A（隐瞒缺陷）违反职业诚信；  \n  C（投诉信息）违反“Information about complaints”条款；  \n  D（仅首次遵守）与持续性义务（如“client care”规则）矛盾。  \n- 语言风格：用“偶尔”“灵活”等生活化词汇增强干扰性，贴近普通用户疑惑点。",
+    "source": "Real Estate Agents Act (Professional Conduct and Client\nCare) Rules 2012\n(SR 2012/413)\nPursuant to s..."
+  },
+  {
+    "chunk_id": 1,
+    "mcq_text": "Q: 你正在考虑通过一名持牌房产中介购买房屋，但发现中介在介绍房源时隐瞒了该房屋曾发生火灾的事实。根据《房地产经纪人法》及相关规则，以下哪项描述是正确的？  \n\nA. 中介只需对正式客户（client）保持诚实，对潜在客户（customer）无需披露全部信息  \nB. 中介必须始终以专业能力行事，但法律未明确规定不能隐瞒房屋瑕疵  \nC. 中介若故意隐瞒依法应披露的信息（如火灾记录），可能构成行业失信行为  \nD. 中介可以选择性提供信息，只要最终合同签署时客户未提出异议即可  \n\n正确答案: C  \n\n解析：  \n- C项正确（依据6.4条：不得向客户或顾客隐瞒依法或出于公平应提供的信息，且6.3条禁止损害行业声誉的行为）。  \n- A项错误（4.1条定义的\"customer\"也受保护，且6.4条未区分客户类型）。  \n- B项错误（5.1条要求专业能力，6.4条明确禁止隐瞒）。  \n- D项错误（6.4条要求主动披露，不取决于事后追认）。  \n\n（问题设计贴近购房者常见顾虑，选项涵盖术语定义、职业义务等条文要点，干扰项结合了易混淆概念如客户分类与披露义务的边界。）",
+    "source": "breach of any specific rule.\n3.4\nThese practice rules must be read in conjunction with the Act and r..."
+  },
+  {
+    "chunk_id": 2,
+    "mcq_text": "Q: 你在找房产中介帮忙买卖房屋时，发现对方没有执照。根据法律规定，持牌中介应该怎么做？  \nA. 私下提醒无照人员去考取执照，避免影响其生计  \nB. 立即向监管机构举报该无照从业行为  \nC. 只要对方服务专业，可以继续合作并保密  \nD. 要求无照人员支付\"合作费\"以换取默许  \n正确答案: B  \n\n（解析：根据条文7.4，持牌中介发现无照从业必须立即举报，其他选项均违反职业义务。B项直接对应法条要求，ACD均为干扰项，其中A看似善意但违法，C/D涉及包庇和利益交换，明显违规。）",
+    "source": ".\n7.4\nIf a licensee learns that a person is committing an offence by undertaking real\nestate agency ..."
+  },
+  {
+    "chunk_id": 3,
+    "mcq_text": "Q: 你在考虑通过房产中介出售房屋，中介建议你立即签署一份独家代理协议。根据法律规定，中介在签署前必须告知你以下哪项重要信息？  \n\nA. 你有权要求中介提前支付部分佣金作为定金  \nB. 如果同时与其他中介签约，交易成功后你可能需向多家中介支付全额佣金  \nC. 中介可以未经你同意在网站上发布房屋信息以测试市场反应  \nD. 签署协议后，你有义务在24小时内提供房屋钥匙给所有潜在买家  \n\n正确答案: B  \n\n（解析：根据条文9.10，中介必须解释\"多份代理协议可能导致多重佣金\"的风险。A违反佣金支付规则；C违反9.6条需客户授权的要求；D与9.5(b)保护房产安全的义务矛盾）",
+    "source": "instructed by the client.\n9.4\nA licensee must not mislead customers as to the price expectations of ..."
+  },
+  {
+    "chunk_id": 4,
+    "mcq_text": "Q: 你在找房产中介卖房时，中介突然要求你签署一份协议，其中包含\"必须使用他们指定的装修公司\"的条款。根据法律规定，以下哪项是正确的？  \n\nA. 中介可以随意添加任何条款，只要客户签字就有效  \nB. 中介只能在协议中加入合理保护其利益的必要条款  \nC. 中介必须免费提供装修服务才能设置这类条款  \nD. 中介需要先获得政府批准才能加入此类条款  \n\n正确答案: B  \n\n（解析：根据条文9.12，中介不得在协议中强加非合理必要的条款，B项直接对应该规定。D项虚构了政府审批程序，A项违背了条款合理性原则，C项混淆了费用与服务条款的关系）",
+    "source": "commission, were the customer to conclude a transaction with the client.\n9.12\nAn agent must not impo..."
+  },
+  {
+    "chunk_id": 5,
+    "mcq_text": "Q: 你在卖房时，房产中介突然提出要增加广告预算来\"提升曝光率\"，但你对费用有顾虑。根据法律规定，中介必须提前向你说明什么？  \n\nA. 你必须无条件接受所有营销方案，否则中介有权终止合同  \nB. 你有权拒绝额外广告费用，且中介必须在协议中书面说明这些费用是可选项  \nC. 中介可以自行决定追加广告开支，事后从房款中扣除  \nD. 只有房屋存在隐蔽缺陷时，中介才需要告知额外费用  \n\n正确答案: B  \n\n（解析：根据10.6(d)条款，客户无义务同意额外广告费用，且必须在协议中书面说明。其他选项：A违反10.6(d)的自主选择权；C违背书面同意原则；D混淆了缺陷披露与费用协商条款）",
+    "source": "(b)\nrealistically reflect current market conditions; and\n(c)\nbe supported by comparable information ..."
+  },
+  {
+    "chunk_id": 6,
+    "mcq_text": "Q: 你正在通过房产中介购买一套老房子，中介突然发现该房屋可能存在防水问题（如漏水风险），但你的购房意向书已经提交。此时中介最应该怎么做？  \n\nA. 暂时不告知你，等验房报告出来后再决定是否披露  \nB. 立刻口头通知你风险，但不需要书面记录  \nC. 停止为你服务，因为你之前要求过隐瞒不利信息  \nD. 书面告知你潜在风险并建议你咨询专业意见  \n\n正确答案: D  \n\n（解析：根据条文10.7(b)必须披露重大风险，10.8规定若客户要求隐瞒则停止服务，D项完全符合主动披露+书面通知的要求；A违反披露义务，B缺少书面形式，C与题干情境无关）",
+    "source": "(b)\nensure that a customer is informed of any significant potential risk so\nthat the customer can se..."
+  },
+  {
+    "chunk_id": 7,
+    "mcq_text": "Q: 你在通过房产中介购买房屋时，中介是否需要向你披露所有书面报价？  \nA. 不需要，中介可以自行筛选合适的报价再告知买家  \nB. 需要，但仅限于口头报价  \nC. 需要，中介必须提交客户要求的所有书面报价  \nD. 不需要，除非买家主动要求查看  \n\n正确答案: C  \n\n（解析：根据条文11.4，中介必须提交客户指示的所有书面报价，体现对消费者知情权的保护。干扰项A/B/D均与条文\"provided that such offers are in writing\"的强制性要求相矛盾，C项直接呼应规则原文。）  \n\n> 设计亮点：  \n> 1. 聚焦购房者最关切的\"报价透明度\"问题，场景真实  \n> 2. 干扰项设置包含\"口头报价\"\"自行筛选\"等常见误解  \n> 3. 使用\"你\"的对话式表达增强代入感",
+    "source": "of this risk (whether or not a seller directly discloses any weathertightness problems). While a\ncus..."
+  },
+  {
+    "chunk_id": 8,
+    "mcq_text": "Q: 如果你通过房产中介买房时遇到纠纷，以下哪种说法是正确的？  \nA. 你必须先使用中介公司的内部投诉程序，才能向房地产管理局投诉  \nB. 即使使用了中介的内部投诉程序，你仍然可以直接向房地产管理局投诉  \nC. 中介必须在收到投诉后30天内向雇主报告相关情况  \nD. 只有当前雇主的中介才需要被告知投诉进展  \n\nA. 你必须先使用中介公司的内部投诉程序，才能向房地产管理局投诉  \nB. 即使使用了中介的内部投诉程序，你仍然可以直接向房地产管理局投诉  \nC. 中介必须在收到投诉后30天内向雇主报告相关情况  \nD. 只有当前雇主的中介才需要被告知投诉进展  \n\n正确答案: B  \n\n（解析：根据条文12.3，客户无需优先使用内部程序即可向管理局投诉，且内部程序不剥夺其投诉权；12.4规定中介需在10个工作日内（非30天）告知雇主；12.5明确前任雇主也需被通知，故D错误。）",
+    "source": "these procedures before they enter into any contractual agreements.\n12.3\nA licensee must also ensure..."
+  },
+  {
+    "chunk_id": 9,
+    "mcq_text": "Q: 你在新西兰购买了一套房产，想确认电子版的房地产法律文件是否具有官方效力。根据相关法律条文，以下哪项说法是正确的？  \n\nA. 电子版文件必须经过公证才具有官方效力  \nB. 电子版文件不具有官方效力，必须打印并盖章  \nC. 电子版文件直接具有官方效力，打印版同样有效  \nD. 只有纸质文件才具有官方效力，电子版仅供参考  \n\n正确答案: C  \n\n解析：根据条文内容，电子版文件本身具有官方效力（\"has the status of an official version\"），且直接打印的版本同样有效（\"A printed version... also has official status\"）。其他选项与条文不符。",
+    "source": "electronic form, has the status of an official version under section 17 of that\nAct. A printed versi..."
+  }
+]
